@@ -1,0 +1,17 @@
+{
+  "name": "nicolas-paschoal-cinema-pages",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler pages dev public --r2=BUCKET",
+    "deploy": "wrangler pages deploy public",
+    "seed": "node scripts/seed-r2.mjs",
+    "access": "node scripts/create-admin-hash.mjs",
+    "check": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20261028.0",
+    "typescript": "^5.9.3",
+    "wrangler": "^4.92.0"
+  }
+}

@@ -1,0 +1,3842 @@
+{
+  "revision": 6,
+  "draft": {
+    "fields": {
+      "home_0": "Nicolas Paschoal — Cinema documental",
+      "home_1": "#",
+      "home_2": "Nicolas Paschoal",
+      "home_3": "Cinema documental",
+      "home_4": "#filmes",
+      "home_5": "Os filmes",
+      "home_6": "#olhar",
+      "home_7": "Nosso olhar",
+      "home_8": "/investimento/",
+      "home_9": "Investimento",
+      "home_10": "#contato",
+      "home_11": "Vamos conversar",
+      "home_12": "↗",
+      "home_13": "/media/efaad256-905a-4a28-a683-404e1b18a142.jpg",
+      "home_14": "Nicolas Paschoal · Filmes de casamento",
+      "home_15": "A vida acontece.",
+      "home_16": "O cinema",
+      "home_17": "permanece.",
+      "home_18": "Histórias reais. Pessoas inteiras.",
+      "home_19": "Um olhar documental sobre o que fica.",
+      "home_20": "Explore os filmes",
+      "home_21": "HISTÓRIAS REAIS, CONTADAS DE DENTRO",
+      "home_22": "CINEMA DOCUMENTAL DE CASAMENTO",
+      "home_23": "AFETO",
+      "home_24": "/",
+      "home_25": "MEMÓRIA",
+      "home_26": "PRESENÇA",
+      "home_27": "UM FILME. A SUA HISTÓRIA.",
+      "home_28": "O acervo",
+      "home_29": "Cada história, um universo.",
+      "home_30": "Todos os filmes",
+      "home_31": "Filmes",
+      "home_32": "Séries",
+      "home_33": "16 histórias · 21 filmes e capítulos · Nicolas Paschoal",
+      "home_34": "O extraordinário está",
+      "home_35": "no que é",
+      "home_36": "verdadeiro.",
+      "home_37": "A voz que falha. O abraço que demora. Uma conversa que ninguém planejou. É nesses encontros que buscamos a história de um casamento: nas pessoas e no que acontece entre elas.",
+      "home_38": "Sou Nicolas Paschoal. Nasci em Ubatuba e cresci com os registros que meus pais e avós faziam da nossa família. Foi dessa relação com a memória que nasceu meu desejo de contar histórias através da imagem.",
+      "home_39": "Hoje, busco preservar os olhares, os gestos, as vozes e os abraços que fazem cada história ser única.",
+      "home_40": "O próximo filme",
+      "home_41": "Começa com",
+      "home_42": "a sua história.",
+      "home_43": "Fale com Nicolas",
+      "home_44": "©",
+      "home_45": "Nicolas Paschoal",
+      "home_46": "Cinema documental de casamento",
+      "home_47": "Voltar ao início ↑",
+      "home_48": "×",
+      "investment_49": "Investimento — Nicolas Paschoal",
+      "investment_50": "/",
+      "investment_51": "Nicolas Paschoal",
+      "investment_52": "Cinema documental",
+      "investment_53": "/#filmes",
+      "investment_54": "Os filmes",
+      "investment_55": "/#olhar",
+      "investment_56": "Nosso olhar",
+      "investment_57": "/investimento/",
+      "investment_58": "Investimento",
+      "investment_59": "#proposta",
+      "investment_60": "Vamos conversar",
+      "investment_61": "↗",
+      "investment_62": "Investimento · Filmes de casamento",
+      "investment_63": "Uma história sua.",
+      "investment_64": "Um filme para",
+      "investment_65": "a vida inteira.",
+      "investment_66": "Cada casamento tem seu próprio ritmo, suas pessoas e suas memórias. Escolham a experiência que faz sentido para vocês — ou construam comigo uma proposta personalizada.",
+      "investment_67": "#experiencias",
+      "investment_68": "Conheça as experiências",
+      "investment_69": "↓",
+      "investment_70": "/media/7672860a-dbb3-4438-b482-1f212f5a6b7a.jpg",
+      "investment_71": "TRÊS FORMAS DE PRESERVAR A SUA HISTÓRIA",
+      "investment_72": "ESSENCIAL",
+      "investment_73": "/",
+      "investment_74": "AUTORAL",
+      "investment_75": "ÍNTEGRA",
+      "investment_76": "UM OLHAR. DIFERENTES POSSIBILIDADES.",
+      "investment_77": "As experiências",
+      "investment_78": "O que vocês querem guardar?",
+      "investment_79": "Dos momentos essenciais à construção de uma narrativa documental sobre vocês.",
+      "investment_80": "01 / ESSENCIAL",
+      "investment_81": "Essencial",
+      "investment_82": "Os momentos do casamento reunidos em um filme para voltar a sentir aquele dia.",
+      "investment_83": "Investimento a partir de",
+      "investment_84": "R$ 7.200",
+      "investment_85": "à vista",
+      "investment_86": "ou R$ 8.000 em até 8x",
+      "investment_87": "A cobertura",
+      "investment_88": "8 horas de cobertura",
+      "investment_89": "Making of dos noivos, cerimônia, recepção e festa",
+      "investment_90": "2 filmmakers + drone",
+      "investment_91": "Highlights de até 2 minutos",
+      "investment_92": "Teaser com média de 7 minutos, com melhores momentos e votos dos noivos",
+      "investment_93": "Entrega em até 45 dias úteis após o casamento.",
+      "investment_94": "Conversar sobre o Essencial",
+      "investment_95": "02 / AUTORAL",
+      "investment_96": "O OLHAR DOCUMENTAL",
+      "investment_97": "Autoral",
+      "investment_98": "O casamento contado através da história de vocês. Um filme que começa antes do grande dia.",
+      "investment_99": "R$ 15.000",
+      "investment_100": "ou R$ 16.900 em até 8x",
+      "investment_101": "A construção da história",
+      "investment_102": "Entrevistas com o casal e familiares",
+      "investment_103": "Fotos, vídeos caseiros e memórias da infância",
+      "investment_104": "Ensaio de pré-wedding",
+      "investment_105": "Making of, cerimônia, recepção e festa",
+      "investment_106": "3 filmmakers + drone",
+      "investment_107": "Teaser com média de 20 minutos, com melhores momentos e votos dos noivos",
+      "investment_108": "Entrega em até 60 dias úteis após o casamento.",
+      "investment_109": "Construir nosso filme",
+      "investment_110": "03 / ÍNTEGRA",
+      "investment_111": "Íntegra",
+      "investment_112": "Do making of à celebração da festa, com a cerimônia preservada na íntegra.",
+      "investment_113": "R$ 14.000",
+      "investment_114": "ou R$ 15.000 em até 12x",
+      "investment_115": "Making of dos noivos",
+      "investment_116": "Cerimônia na íntegra: entradas, votos e discursos",
+      "investment_117": "Recepção e melhores momentos da festa",
+      "investment_118": "4 filmmakers + drone",
+      "investment_119": "Vídeo na íntegra, com duração de acordo com o evento",
+      "investment_120": "Highlights de até 1 minuto",
+      "investment_121": "Conversar sobre o Íntegra",
+      "investment_122": "Os valores são iniciais. Para uma cobertura personalizada, conversamos sobre equipe, duração, narrativa e entregas.",
+      "investment_123": "Dentro da experiência Autoral",
+      "investment_124": "A história começa",
+      "investment_125": "antes do",
+      "investment_126": "sim.",
+      "investment_127": "O dia do casamento é parte de uma história maior. No Autoral, abrimos espaço para as vozes e as memórias que trouxeram vocês até aqui.",
+      "investment_128": "01",
+      "investment_129": "Escutar quem vocês são",
+      "investment_130": "Entrevistas com o casal e familiares para conhecer a história e as pessoas que fazem parte dela.",
+      "investment_131": "02",
+      "investment_132": "Revisitar as memórias",
+      "investment_133": "Fotos da infância, vídeos caseiros e registros pessoais ajudam a compor a narrativa, junto ao ensaio de pré-wedding.",
+      "investment_134": "03",
+      "investment_135": "Documentar o encontro",
+      "investment_136": "Do making of à festa, o casamento ganha seu lugar dentro dessa história, com os melhores momentos e os votos de vocês.",
+      "investment_137": "Lado a lado",
+      "investment_138": "Encontrem a sua experiência.",
+      "investment_139": "O que está incluído",
+      "investment_140": "Equipe",
+      "investment_141": "Construção antes do casamento",
+      "investment_142": "—",
+      "investment_143": "Entrevistas, memórias e pré-wedding",
+      "investment_144": "Vídeo principal",
+      "investment_145": "Teaser · média de 7 min",
+      "investment_146": "Teaser · média de 20 min",
+      "investment_147": "Íntegra · duração conforme o evento",
+      "investment_148": "Highlights",
+      "investment_149": "Até 2 min",
+      "investment_150": "Até 1 min",
+      "investment_151": "Prazo após o casamento",
+      "investment_152": "Até 45 dias úteis",
+      "investment_153": "Até 60 dias úteis",
+      "investment_154": "A partir de, à vista",
+      "investment_155": "A partir de, parcelado",
+      "investment_156": "R$ 8.000 em até 8x",
+      "investment_157": "R$ 16.900 em até 8x",
+      "investment_158": "R$ 15.000 em até 12x",
+      "investment_159": "Antes de conversar",
+      "investment_160": "Algumas respostas",
+      "investment_161": "para começar.",
+      "investment_162": "Posso personalizar a cobertura?",
+      "investment_163": "Sim. Podemos adaptar equipe, duração, quantidade de câmeras, cobertura, narrativa e entregas ao que faz sentido para o casamento de vocês.",
+      "investment_164": "Qual experiência inclui pré-wedding e entrevistas?",
+      "investment_165": "A experiência Autoral inclui ensaio de pré-wedding, entrevistas com o casal e familiares e a busca por fotos e vídeos pessoais para construir a narrativa.",
+      "investment_166": "Em quanto tempo recebemos os filmes?",
+      "investment_167": "Essencial e Íntegra têm prazo de até 45 dias úteis após o casamento. No Autoral, o prazo é de até 60 dias úteis.",
+      "investment_168": "Onde podemos conhecer os filmes?",
+      "investment_169": "Explore",
+      "investment_170": "o acervo de casamentos",
+      "investment_171": ". Cada história tem sua própria página, com os filmes e capítulos disponíveis para assistir.",
+      "investment_172": "Uma proposta para vocês",
+      "investment_173": "E se a sua história",
+      "investment_174": "pedir",
+      "investment_175": "outro caminho?",
+      "investment_176": "Contem a data, o lugar e o que vocês imaginam para o casamento. Vamos conversar sobre a melhor forma de documentar tudo isso.",
+      "investment_177": "Por onde vocês gostariam de começar?",
+      "investment_178": "Uma proposta personalizada",
+      "investment_179": "Experiência Essencial",
+      "investment_180": "Experiência Autoral",
+      "investment_181": "Experiência Íntegra",
+      "investment_182": "Conversar com Nicolas",
+      "investment_183": "Vamos continuar a conversa pelo WhatsApp.",
+      "investment_184": "© Nicolas Paschoal · Cinema documental",
+      "investment_185": "Conheça os filmes ↗",
+      "investment_186": "#",
+      "investment_187": "Voltar ao início ↑"
+    },
+    "films": [
+      {
+        "id": "gabi-jeremy",
+        "couple": "Gabi & Jeremy",
+        "title": "Gabi & Jeremy",
+        "type": "series",
+        "label": "UMA HISTÓRIA EM CAPÍTULOS",
+        "meta": "2 capítulos",
+        "location": "Paraty — RJ",
+        "img": "UxSlGfBtUzs",
+        "desc": "A história de Gabi & Jeremy, em Paraty — RJ. O filme e os outros capítulos deste casamento, reunidos em um só lugar.",
+        "eps": [
+          {
+            "video": "UxSlGfBtUzs",
+            "title": "Filme de casamento",
+            "duration": "31 min"
+          },
+          {
+            "video": "xNsodEBZgs8",
+            "title": "Highlights",
+            "duration": "2:23"
+          }
+        ],
+        "cover": "https://i.ytimg.com/vi/UxSlGfBtUzs/hqdefault.jpg",
+        "visible": true
+      },
+      {
+        "id": "helena-lucas",
+        "couple": "Helena & Lucas",
+        "title": "Helena & Lucas",
+        "type": "series",
+        "label": "UMA HISTÓRIA EM CAPÍTULOS",
+        "meta": "2 capítulos",
+        "location": "",
+        "img": "gqn8v9spSck",
+        "desc": "A história de Helena & Lucas. O filme e os outros capítulos deste casamento, reunidos em um só lugar.",
+        "eps": [
+          {
+            "video": "gqn8v9spSck",
+            "title": "A Wedding Film",
+            "duration": "12:39"
+          },
+          {
+            "video": "BetO1PCe5SE",
+            "title": "Highlights",
+            "duration": "2:01"
+          }
+        ],
+        "cover": "https://i.ytimg.com/vi/gqn8v9spSck/hqdefault.jpg",
+        "visible": true
+      },
+      {
+        "id": "jamili-cristian",
+        "couple": "Jamili & Cristian",
+        "title": "Jamili & Cristian",
+        "type": "series",
+        "label": "UMA HISTÓRIA EM CAPÍTULOS",
+        "meta": "2 capítulos",
+        "location": "Itamambuca, Ubatuba — SP",
+        "img": "6M464Hbf95U",
+        "desc": "A história de Jamili & Cristian, em Itamambuca, Ubatuba — SP. O filme e os outros capítulos deste casamento, reunidos em um só lugar.",
+        "eps": [
+          {
+            "video": "6M464Hbf95U",
+            "title": "Filme de casamento",
+            "duration": "19 min"
+          },
+          {
+            "video": "uNtFCJna2h4",
+            "title": "Highlights",
+            "duration": "1:22"
+          }
+        ],
+        "cover": "https://i.ytimg.com/vi/6M464Hbf95U/hqdefault.jpg",
+        "visible": true
+      },
+      {
+        "id": "mari-caique",
+        "couple": "Mari & Caique",
+        "title": "Mari & Caique",
+        "type": "series",
+        "label": "UMA HISTÓRIA EM CAPÍTULOS",
+        "meta": "2 capítulos",
+        "location": "",
+        "img": "Q9uvhQamTLQ",
+        "desc": "A história de Mari & Caique. O filme e os outros capítulos deste casamento, reunidos em um só lugar.",
+        "eps": [
+          {
+            "video": "Q9uvhQamTLQ",
+            "title": "Mari e Caique",
+            "duration": "2:10"
+          },
+          {
+            "video": "7Rdvm0Hix-0",
+            "title": "Wedding Highlights",
+            "duration": "1:34"
+          }
+        ],
+        "cover": "https://i.ytimg.com/vi/Q9uvhQamTLQ/hqdefault.jpg",
+        "visible": true
+      },
+      {
+        "id": "isabela-luiz",
+        "couple": "Isabela & Luiz",
+        "title": "Isabela & Luiz",
+        "type": "series",
+        "label": "UMA HISTÓRIA EM CAPÍTULOS",
+        "meta": "2 capítulos",
+        "location": "",
+        "img": "0aUHgUxuMhI",
+        "desc": "A história de Isabela & Luiz. O filme e os outros capítulos deste casamento, reunidos em um só lugar.",
+        "eps": [
+          {
+            "video": "0aUHgUxuMhI",
+            "title": "Pré-wedding · Vila Bosque Bambu, Jarinu",
+            "duration": "2:09"
+          },
+          {
+            "video": "mwoEW9bFv7k",
+            "title": "Highlights",
+            "duration": "1:42"
+          }
+        ],
+        "cover": "https://i.ytimg.com/vi/0aUHgUxuMhI/hqdefault.jpg",
+        "visible": true
+      },
+      {
+        "id": "fernando-isabelle",
+        "couple": "Fernando & Isabelle",
+        "title": "Fernando & Isabelle",
+        "type": "film",
+        "label": "FILME DE CASAMENTO",
+        "meta": "2:25",
+        "location": "Praia do Félix, Ubatuba — SP",
+        "img": "jiIHNkxZEgQ",
+        "desc": "A história de Fernando & Isabelle, em Praia do Félix, Ubatuba — SP. Um filme de Nicolas Paschoal.",
+        "eps": [
+          {
+            "video": "jiIHNkxZEgQ",
+            "title": "Highlights",
+            "duration": "2:25"
+          }
+        ],
+        "cover": "https://i.ytimg.com/vi/jiIHNkxZEgQ/hqdefault.jpg",
+        "visible": true
+      },
+      {
+        "id": "tati-max",
+        "couple": "Tati & Max",
+        "title": "Tati & Max",
+        "type": "film",
+        "label": "FILME DE CASAMENTO",
+        "meta": "24 min",
+        "location": "Brasil e Alemanha",
+        "img": "1iuiEvEjMEc",
+        "desc": "A história de Tati & Max. Um filme de Nicolas Paschoal.",
+        "eps": [
+          {
+            "video": "1iuiEvEjMEc",
+            "title": "Amor sem fronteiras",
+            "duration": "24 min"
+          }
+        ],
+        "cover": "https://i.ytimg.com/vi/1iuiEvEjMEc/hqdefault.jpg",
+        "visible": true
+      },
+      {
+        "id": "amanda-claick",
+        "couple": "Amanda & Claick",
+        "title": "Amanda & Claick",
+        "type": "film",
+        "label": "FILME DE CASAMENTO",
+        "meta": "27 min",
+        "location": "",
+        "img": "hBs-qsXK1D0",
+        "desc": "A história de Amanda & Claick. Um filme de Nicolas Paschoal.",
+        "eps": [
+          {
+            "video": "hBs-qsXK1D0",
+            "title": "Amor com nariz vermelho",
+            "duration": "27 min"
+          }
+        ],
+        "cover": "https://i.ytimg.com/vi/hBs-qsXK1D0/hqdefault.jpg",
+        "visible": true
+      },
+      {
+        "id": "andressa-edwin",
+        "couple": "Andressa & Edwin",
+        "title": "Andressa & Edwin",
+        "type": "film",
+        "label": "FILME DE CASAMENTO",
+        "meta": "1:40",
+        "location": "",
+        "img": "xMxtnLPh6LA",
+        "desc": "A história de Andressa & Edwin. Um filme de Nicolas Paschoal.",
+        "eps": [
+          {
+            "video": "xMxtnLPh6LA",
+            "title": "Highlights · 12 de abril de 2026",
+            "duration": "1:40"
+          }
+        ],
+        "cover": "https://i.ytimg.com/vi/xMxtnLPh6LA/hqdefault.jpg",
+        "visible": true
+      },
+      {
+        "id": "bea-renan",
+        "couple": "Bea & Renan",
+        "title": "Bea & Renan",
+        "type": "film",
+        "label": "FILME DE CASAMENTO",
+        "meta": "2:41",
+        "location": "",
+        "img": "g3vMBGJRgnc",
+        "desc": "A história de Bea & Renan. Um filme de Nicolas Paschoal.",
+        "eps": [
+          {
+            "video": "g3vMBGJRgnc",
+            "title": "Bea e Renan",
+            "duration": "2:41"
+          }
+        ],
+        "cover": "https://i.ytimg.com/vi/g3vMBGJRgnc/hqdefault.jpg",
+        "visible": true
+      },
+      {
+        "id": "camila-gabriel",
+        "couple": "Camila & Gabriel",
+        "title": "Camila & Gabriel",
+        "type": "film",
+        "label": "FILME DE CASAMENTO",
+        "meta": "2:39",
+        "location": "",
+        "img": "gk5ujv_AWZ8",
+        "desc": "A história de Camila & Gabriel. Um filme de Nicolas Paschoal.",
+        "eps": [
+          {
+            "video": "gk5ujv_AWZ8",
+            "title": "Highlights",
+            "duration": "2:39"
+          }
+        ],
+        "cover": "https://i.ytimg.com/vi/gk5ujv_AWZ8/hqdefault.jpg",
+        "visible": true
+      },
+      {
+        "id": "allendri-macos-vinicius",
+        "couple": "Allendri & Macos Vinicius",
+        "title": "Allendri & Macos Vinicius",
+        "type": "film",
+        "label": "FILME DE CASAMENTO",
+        "meta": "10:25",
+        "location": "",
+        "img": "Ztdi6AhgC78",
+        "desc": "A história de Allendri & Macos Vinicius. Um filme de Nicolas Paschoal.",
+        "eps": [
+          {
+            "video": "Ztdi6AhgC78",
+            "title": "A história de Allendri e Macos Vinicius",
+            "duration": "10:25"
+          }
+        ],
+        "cover": "https://i.ytimg.com/vi/Ztdi6AhgC78/hqdefault.jpg",
+        "visible": true
+      },
+      {
+        "id": "danilo-michele",
+        "couple": "Danilo & Michele",
+        "title": "Danilo & Michele",
+        "type": "film",
+        "label": "FILME DE CASAMENTO",
+        "meta": "17 min",
+        "location": "",
+        "img": "doe6Nbp8-jQ",
+        "desc": "A história de Danilo & Michele. Um filme de Nicolas Paschoal.",
+        "eps": [
+          {
+            "video": "doe6Nbp8-jQ",
+            "title": "O casamento de Danilo e Michele",
+            "duration": "17 min"
+          }
+        ],
+        "cover": "https://i.ytimg.com/vi/doe6Nbp8-jQ/hqdefault.jpg",
+        "visible": true
+      },
+      {
+        "id": "natalia-lucas",
+        "couple": "Natalia & Lucas",
+        "title": "Natalia & Lucas",
+        "type": "film",
+        "label": "FILME DE CASAMENTO",
+        "meta": "11:29",
+        "location": "",
+        "img": "WqvjVOenxAQ",
+        "desc": "A história de Natalia & Lucas. Um filme de Nicolas Paschoal.",
+        "eps": [
+          {
+            "video": "WqvjVOenxAQ",
+            "title": "O casamento de Natalia e Lucas",
+            "duration": "11:29"
+          }
+        ],
+        "cover": "https://i.ytimg.com/vi/WqvjVOenxAQ/hqdefault.jpg",
+        "visible": true
+      },
+      {
+        "id": "clara-caique",
+        "couple": "Clara & Caique",
+        "title": "Clara & Caique",
+        "type": "film",
+        "label": "FILME DE CASAMENTO",
+        "meta": "18 min",
+        "location": "",
+        "img": "X9wR_HxZkNI",
+        "desc": "A história de Clara & Caique. Um filme de Nicolas Paschoal.",
+        "eps": [
+          {
+            "video": "X9wR_HxZkNI",
+            "title": "Celebrando o amor",
+            "duration": "18 min"
+          }
+        ],
+        "cover": "https://i.ytimg.com/vi/X9wR_HxZkNI/hqdefault.jpg",
+        "visible": true
+      },
+      {
+        "id": "jack-lucas",
+        "couple": "Jack & Lucas",
+        "title": "Jack & Lucas",
+        "type": "film",
+        "label": "FILME DE CASAMENTO",
+        "meta": "7:44",
+        "location": "",
+        "img": "Q9FtAyT9s8I",
+        "desc": "A história de Jack & Lucas. Um filme de Nicolas Paschoal.",
+        "eps": [
+          {
+            "video": "Q9FtAyT9s8I",
+            "title": "O casamento de Jack e Lucas",
+            "duration": "7:44"
+          }
+        ],
+        "cover": "https://i.ytimg.com/vi/Q9FtAyT9s8I/hqdefault.jpg",
+        "visible": true
+      }
+    ],
+    "settings": {
+      "whatsapp": "5512988274244",
+      "background": "#101110",
+      "text": "#eae7df",
+      "accent": "#d3ff7a"
+    }
+  },
+  "published": {
+    "fields": {
+      "home_0": "Nicolas Paschoal — Cinema documental",
+      "home_1": "#",
+      "home_2": "Nicolas Paschoal",
+      "home_3": "Cinema documental",
+      "home_4": "#filmes",
+      "home_5": "Os filmes",
+      "home_6": "#olhar",
+      "home_7": "Nosso olhar",
+      "home_8": "/investimento/",
+      "home_9": "Investimento",
+      "home_10": "#contato",
+      "home_11": "Vamos conversar",
+      "home_12": "↗",
+      "home_13": "/media/efaad256-905a-4a28-a683-404e1b18a142.jpg",
+      "home_14": "Nicolas Paschoal · Filmes de casamento",
+      "home_15": "A vida acontece.",
+      "home_16": "O cinema",
+      "home_17": "permanece.",
+      "home_18": "Histórias reais. Pessoas inteiras.",
+      "home_19": "Um olhar documental sobre o que fica.",
+      "home_20": "Explore os filmes",
+      "home_21": "HISTÓRIAS REAIS, CONTADAS DE DENTRO",
+      "home_22": "CINEMA DOCUMENTAL DE CASAMENTO",
+      "home_23": "AFETO",
+      "home_24": "/",
+      "home_25": "MEMÓRIA",
+      "home_26": "PRESENÇA",
+      "home_27": "UM FILME. A SUA HISTÓRIA.",
+      "home_28": "O acervo",
+      "home_29": "Cada história, um universo.",
+      "home_30": "Todos os filmes",
+      "home_31": "Filmes",
+      "home_32": "Séries",
+      "home_33": "16 histórias · 21 filmes e capítulos · Nicolas Paschoal",
+      "home_34": "O extraordinário está",
+      "home_35": "no que é",
+      "home_36": "verdadeiro.",
+      "home_37": "A voz que falha. O abraço que demora. Uma conversa que ninguém planejou. É nesses encontros que buscamos a história de um casamento: nas pessoas e no que acontece entre elas.",
+      "home_38": "Sou Nicolas Paschoal. Nasci em Ubatuba e cresci com os registros que meus pais e avós faziam da nossa família. Foi dessa relação com a memória que nasceu meu desejo de contar histórias através da imagem.",
+      "home_39": "Hoje, busco preservar os olhares, os gestos, as vozes e os abraços que fazem cada história ser única.",
+      "home_40": "O próximo filme",
+      "home_41": "Começa com",
+      "home_42": "a sua história.",
+      "home_43": "Fale com Nicolas",
+      "home_44": "©",
+      "home_45": "Nicolas Paschoal",
+      "home_46": "Cinema documental de casamento",
+      "home_47": "Voltar ao início ↑",
+      "home_48": "×",
+      "investment_49": "Investimento — Nicolas Paschoal",
+      "investment_50": "/",
+      "investment_51": "Nicolas Paschoal",
+      "investment_52": "Cinema documental",
+      "investment_53": "/#filmes",
+      "investment_54": "Os filmes",
+      "investment_55": "/#olhar",
+      "investment_56": "Nosso olhar",
+      "investment_57": "/investimento/",
+      "investment_58": "Investimento",
+      "investment_59": "#proposta",
+      "investment_60": "Vamos conversar",
+      "investment_61": "↗",
+      "investment_62": "Investimento · Filmes de casamento",
+      "investment_63": "Uma história sua.",
+      "investment_64": "Um filme para",
+      "investment_65": "a vida inteira.",
+      "investment_66": "Cada casamento tem seu próprio ritmo, suas pessoas e suas memórias. Escolham a experiência que faz sentido para vocês — ou construam comigo uma proposta personalizada.",
+      "investment_67": "#experiencias",
+      "investment_68": "Conheça as experiências",
+      "investment_69": "↓",
+      "investment_70": "/media/7672860a-dbb3-4438-b482-1f212f5a6b7a.jpg",
+      "investment_71": "TRÊS FORMAS DE PRESERVAR A SUA HISTÓRIA",
+      "investment_72": "ESSENCIAL",
+      "investment_73": "/",
+      "investment_74": "AUTORAL",
+      "investment_75": "ÍNTEGRA",
+      "investment_76": "UM OLHAR. DIFERENTES POSSIBILIDADES.",
+      "investment_77": "As experiências",
+      "investment_78": "O que vocês querem guardar?",
+      "investment_79": "Dos momentos essenciais à construção de uma narrativa documental sobre vocês.",
+      "investment_80": "01 / ESSENCIAL",
+      "investment_81": "Essencial",
+      "investment_82": "Os momentos do casamento reunidos em um filme para voltar a sentir aquele dia.",
+      "investment_83": "Investimento a partir de",
+      "investment_84": "R$ 7.200",
+      "investment_85": "à vista",
+      "investment_86": "ou R$ 8.000 em até 8x",
+      "investment_87": "A cobertura",
+      "investment_88": "8 horas de cobertura",
+      "investment_89": "Making of dos noivos, cerimônia, recepção e festa",
+      "investment_90": "2 filmmakers + drone",
+      "investment_91": "Highlights de até 2 minutos",
+      "investment_92": "Teaser com média de 7 minutos, com melhores momentos e votos dos noivos",
+      "investment_93": "Entrega em até 45 dias úteis após o casamento.",
+      "investment_94": "Conversar sobre o Essencial",
+      "investment_95": "02 / AUTORAL",
+      "investment_96": "O OLHAR DOCUMENTAL",
+      "investment_97": "Autoral",
+      "investment_98": "O casamento contado através da história de vocês. Um filme que começa antes do grande dia.",
+      "investment_99": "R$ 15.000",
+      "investment_100": "ou R$ 16.900 em até 8x",
+      "investment_101": "A construção da história",
+      "investment_102": "Entrevistas com o casal e familiares",
+      "investment_103": "Fotos, vídeos caseiros e memórias da infância",
+      "investment_104": "Ensaio de pré-wedding",
+      "investment_105": "Making of, cerimônia, recepção e festa",
+      "investment_106": "3 filmmakers + drone",
+      "investment_107": "Teaser com média de 20 minutos, com melhores momentos e votos dos noivos",
+      "investment_108": "Entrega em até 60 dias úteis após o casamento.",
+      "investment_109": "Construir nosso filme",
+      "investment_110": "03 / ÍNTEGRA",
+      "investment_111": "Íntegra",
+      "investment_112": "Do making of à celebração da festa, com a cerimônia preservada na íntegra.",
+      "investment_113": "R$ 14.000",
+      "investment_114": "ou R$ 15.000 em até 12x",
+      "investment_115": "Making of dos noivos",
+      "investment_116": "Cerimônia na íntegra: entradas, votos e discursos",
+      "investment_117": "Recepção e melhores momentos da festa",
+      "investment_118": "4 filmmakers + drone",
+      "investment_119": "Vídeo na íntegra, com duração de acordo com o evento",
+      "investment_120": "Highlights de até 1 minuto",
+      "investment_121": "Conversar sobre o Íntegra",
+      "investment_122": "Os valores são iniciais. Para uma cobertura personalizada, conversamos sobre equipe, duração, narrativa e entregas.",
+      "investment_123": "Dentro da experiência Autoral",
+      "investment_124": "A história começa",
+      "investment_125": "antes do",
+      "investment_126": "sim.",
+      "investment_127": "O dia do casamento é parte de uma história maior. No Autoral, abrimos espaço para as vozes e as memórias que trouxeram vocês até aqui.",
+      "investment_128": "01",
+      "investment_129": "Escutar quem vocês são",
+      "investment_130": "Entrevistas com o casal e familiares para conhecer a história e as pessoas que fazem parte dela.",
+      "investment_131": "02",
+      "investment_132": "Revisitar as memórias",
+      "investment_133": "Fotos da infância, vídeos caseiros e registros pessoais ajudam a compor a narrativa, junto ao ensaio de pré-wedding.",
+      "investment_134": "03",
+      "investment_135": "Documentar o encontro",
+      "investment_136": "Do making of à festa, o casamento ganha seu lugar dentro dessa história, com os melhores momentos e os votos de vocês.",
+      "investment_137": "Lado a lado",
+      "investment_138": "Encontrem a sua experiência.",
+      "investment_139": "O que está incluído",
+      "investment_140": "Equipe",
+      "investment_141": "Construção antes do casamento",
+      "investment_142": "—",
+      "investment_143": "Entrevistas, memórias e pré-wedding",
+      "investment_144": "Vídeo principal",
+      "investment_145": "Teaser · média de 7 min",
+      "investment_146": "Teaser · média de 20 min",
+      "investment_147": "Íntegra · duração conforme o evento",
+      "investment_148": "Highlights",
+      "investment_149": "Até 2 min",
+      "investment_150": "Até 1 min",
+      "investment_151": "Prazo após o casamento",
+      "investment_152": "Até 45 dias úteis",
+      "investment_153": "Até 60 dias úteis",
+      "investment_154": "A partir de, à vista",
+      "investment_155": "A partir de, parcelado",
+      "investment_156": "R$ 8.000 em até 8x",
+      "investment_157": "R$ 16.900 em até 8x",
+      "investment_158": "R$ 15.000 em até 12x",
+      "investment_159": "Antes de conversar",
+      "investment_160": "Algumas respostas",
+      "investment_161": "para começar.",
+      "investment_162": "Posso personalizar a cobertura?",
+      "investment_163": "Sim. Podemos adaptar equipe, duração, quantidade de câmeras, cobertura, narrativa e entregas ao que faz sentido para o casamento de vocês.",
+      "investment_164": "Qual experiência inclui pré-wedding e entrevistas?",
+      "investment_165": "A experiência Autoral inclui ensaio de pré-wedding, entrevistas com o casal e familiares e a busca por fotos e vídeos pessoais para construir a narrativa.",
+      "investment_166": "Em quanto tempo recebemos os filmes?",
+      "investment_167": "Essencial e Íntegra têm prazo de até 45 dias úteis após o casamento. No Autoral, o prazo é de até 60 dias úteis.",
+      "investment_168": "Onde podemos conhecer os filmes?",
+      "investment_169": "Explore",
+      "investment_170": "o acervo de casamentos",
+      "investment_171": ". Cada história tem sua própria página, com os filmes e capítulos disponíveis para assistir.",
+      "investment_172": "Uma proposta para vocês",
+      "investment_173": "E se a sua história",
+      "investment_174": "pedir",
+      "investment_175": "outro caminho?",
+      "investment_176": "Contem a data, o lugar e o que vocês imaginam para o casamento. Vamos conversar sobre a melhor forma de documentar tudo isso.",
+      "investment_177": "Por onde vocês gostariam de começar?",
+      "investment_178": "Uma proposta personalizada",
+      "investment_179": "Experiência Essencial",
+      "investment_180": "Experiência Autoral",
+      "investment_181": "Experiência Íntegra",
+      "investment_182": "Conversar com Nicolas",
+      "investment_183": "Vamos continuar a conversa pelo WhatsApp.",
+      "investment_184": "© Nicolas Paschoal · Cinema documental",
+      "investment_185": "Conheça os filmes ↗",
+      "investment_186": "#",
+      "investment_187": "Voltar ao início ↑"
+    },
+    "films": [
+      {
+        "id": "gabi-jeremy",
+        "couple": "Gabi & Jeremy",
+        "title": "Gabi & Jeremy",
+        "type": "series",
+        "label": "UMA HISTÓRIA EM CAPÍTULOS",
+        "meta": "2 capítulos",
+        "location": "Paraty — RJ",
+        "img": "UxSlGfBtUzs",
+        "desc": "A história de Gabi & Jeremy, em Paraty — RJ. O filme e os outros capítulos deste casamento, reunidos em um só lugar.",
+        "eps": [
+          {
+            "video": "UxSlGfBtUzs",
+            "title": "Filme de casamento",
+            "duration": "31 min"
+          },
+          {
+            "video": "xNsodEBZgs8",
+            "title": "Highlights",
+            "duration": "2:23"
+          }
+        ],
+        "cover": "https://i.ytimg.com/vi/UxSlGfBtUzs/hqdefault.jpg",
+        "visible": true
+      },
+      {
+        "id": "helena-lucas",
+        "couple": "Helena & Lucas",
+        "title": "Helena & Lucas",
+        "type": "series",
+        "label": "UMA HISTÓRIA EM CAPÍTULOS",
+        "meta": "2 capítulos",
+        "location": "",
+        "img": "gqn8v9spSck",
+        "desc": "A história de Helena & Lucas. O filme e os outros capítulos deste casamento, reunidos em um só lugar.",
+        "eps": [
+          {
+            "video": "gqn8v9spSck",
+            "title": "A Wedding Film",
+            "duration": "12:39"
+          },
+          {
+            "video": "BetO1PCe5SE",
+            "title": "Highlights",
+            "duration": "2:01"
+          }
+        ],
+        "cover": "https://i.ytimg.com/vi/gqn8v9spSck/hqdefault.jpg",
+        "visible": true
+      },
+      {
+        "id": "jamili-cristian",
+        "couple": "Jamili & Cristian",
+        "title": "Jamili & Cristian",
+        "type": "series",
+        "label": "UMA HISTÓRIA EM CAPÍTULOS",
+        "meta": "2 capítulos",
+        "location": "Itamambuca, Ubatuba — SP",
+        "img": "6M464Hbf95U",
+        "desc": "A história de Jamili & Cristian, em Itamambuca, Ubatuba — SP. O filme e os outros capítulos deste casamento, reunidos em um só lugar.",
+        "eps": [
+          {
+            "video": "6M464Hbf95U",
+            "title": "Filme de casamento",
+            "duration": "19 min"
+          },
+          {
+            "video": "uNtFCJna2h4",
+            "title": "Highlights",
+            "duration": "1:22"
+          }
+        ],
+        "cover": "https://i.ytimg.com/vi/6M464Hbf95U/hqdefault.jpg",
+        "visible": true
+      },
+      {
+        "id": "mari-caique",
+        "couple": "Mari & Caique",
+        "title": "Mari & Caique",
+        "type": "series",
+        "label": "UMA HISTÓRIA EM CAPÍTULOS",
+        "meta": "2 capítulos",
+        "location": "",
+        "img": "Q9uvhQamTLQ",
+        "desc": "A história de Mari & Caique. O filme e os outros capítulos deste casamento, reunidos em um só lugar.",
+        "eps": [
+          {
+            "video": "Q9uvhQamTLQ",
+            "title": "Mari e Caique",
+            "duration": "2:10"
+          },
+          {
+            "video": "7Rdvm0Hix-0",
+            "title": "Wedding Highlights",
+            "duration": "1:34"
+          }
+        ],
+        "cover": "https://i.ytimg.com/vi/Q9uvhQamTLQ/hqdefault.jpg",
+        "visible": true
+      },
+      {
+        "id": "isabela-luiz",
+        "couple": "Isabela & Luiz",
+        "title": "Isabela & Luiz",
+        "type": "series",
+        "label": "UMA HISTÓRIA EM CAPÍTULOS",
+        "meta": "2 capítulos",
+        "location": "",
+        "img": "0aUHgUxuMhI",
+        "desc": "A história de Isabela & Luiz. O filme e os outros capítulos deste casamento, reunidos em um só lugar.",
+        "eps": [
+          {
+            "video": "0aUHgUxuMhI",
+            "title": "Pré-wedding · Vila Bosque Bambu, Jarinu",
+            "duration": "2:09"
+          },
+          {
+            "video": "mwoEW9bFv7k",
+            "title": "Highlights",
+            "duration": "1:42"
+          }
+        ],
+        "cover": "https://i.ytimg.com/vi/0aUHgUxuMhI/hqdefault.jpg",
+        "visible": true
+      },
+      {
+        "id": "fernando-isabelle",
+        "couple": "Fernando & Isabelle",
+        "title": "Fernando & Isabelle",
+        "type": "film",
+        "label": "FILME DE CASAMENTO",
+        "meta": "2:25",
+        "location": "Praia do Félix, Ubatuba — SP",
+        "img": "jiIHNkxZEgQ",
+        "desc": "A história de Fernando & Isabelle, em Praia do Félix, Ubatuba — SP. Um filme de Nicolas Paschoal.",
+        "eps": [
+          {
+            "video": "jiIHNkxZEgQ",
+            "title": "Highlights",
+            "duration": "2:25"
+          }
+        ],
+        "cover": "https://i.ytimg.com/vi/jiIHNkxZEgQ/hqdefault.jpg",
+        "visible": true
+      },
+      {
+        "id": "tati-max",
+        "couple": "Tati & Max",
+        "title": "Tati & Max",
+        "type": "film",
+        "label": "FILME DE CASAMENTO",
+        "meta": "24 min",
+        "location": "Brasil e Alemanha",
+        "img": "1iuiEvEjMEc",
+        "desc": "A história de Tati & Max. Um filme de Nicolas Paschoal.",
+        "eps": [
+          {
+            "video": "1iuiEvEjMEc",
+            "title": "Amor sem fronteiras",
+            "duration": "24 min"
+          }
+        ],
+        "cover": "https://i.ytimg.com/vi/1iuiEvEjMEc/hqdefault.jpg",
+        "visible": true
+      },
+      {
+        "id": "amanda-claick",
+        "couple": "Amanda & Claick",
+        "title": "Amanda & Claick",
+        "type": "film",
+        "label": "FILME DE CASAMENTO",
+        "meta": "27 min",
+        "location": "",
+        "img": "hBs-qsXK1D0",
+        "desc": "A história de Amanda & Claick. Um filme de Nicolas Paschoal.",
+        "eps": [
+          {
+            "video": "hBs-qsXK1D0",
+            "title": "Amor com nariz vermelho",
+            "duration": "27 min"
+          }
+        ],
+        "cover": "https://i.ytimg.com/vi/hBs-qsXK1D0/hqdefault.jpg",
+        "visible": true
+      },
+      {
+        "id": "andressa-edwin",
+        "couple": "Andressa & Edwin",
+        "title": "Andressa & Edwin",
+        "type": "film",
+        "label": "FILME DE CASAMENTO",
+        "meta": "1:40",
+        "location": "",
+        "img": "xMxtnLPh6LA",
+        "desc": "A história de Andressa & Edwin. Um filme de Nicolas Paschoal.",
+        "eps": [
+          {
+            "video": "xMxtnLPh6LA",
+            "title": "Highlights · 12 de abril de 2026",
+            "duration": "1:40"
+          }
+        ],
+        "cover": "https://i.ytimg.com/vi/xMxtnLPh6LA/hqdefault.jpg",
+        "visible": true
+      },
+      {
+        "id": "bea-renan",
+        "couple": "Bea & Renan",
+        "title": "Bea & Renan",
+        "type": "film",
+        "label": "FILME DE CASAMENTO",
+        "meta": "2:41",
+        "location": "",
+        "img": "g3vMBGJRgnc",
+        "desc": "A história de Bea & Renan. Um filme de Nicolas Paschoal.",
+        "eps": [
+          {
+            "video": "g3vMBGJRgnc",
+            "title": "Bea e Renan",
+            "duration": "2:41"
+          }
+        ],
+        "cover": "https://i.ytimg.com/vi/g3vMBGJRgnc/hqdefault.jpg",
+        "visible": true
+      },
+      {
+        "id": "camila-gabriel",
+        "couple": "Camila & Gabriel",
+        "title": "Camila & Gabriel",
+        "type": "film",
+        "label": "FILME DE CASAMENTO",
+        "meta": "2:39",
+        "location": "",
+        "img": "gk5ujv_AWZ8",
+        "desc": "A história de Camila & Gabriel. Um filme de Nicolas Paschoal.",
+        "eps": [
+          {
+            "video": "gk5ujv_AWZ8",
+            "title": "Highlights",
+            "duration": "2:39"
+          }
+        ],
+        "cover": "https://i.ytimg.com/vi/gk5ujv_AWZ8/hqdefault.jpg",
+        "visible": true
+      },
+      {
+        "id": "allendri-macos-vinicius",
+        "couple": "Allendri & Macos Vinicius",
+        "title": "Allendri & Macos Vinicius",
+        "type": "film",
+        "label": "FILME DE CASAMENTO",
+        "meta": "10:25",
+        "location": "",
+        "img": "Ztdi6AhgC78",
+        "desc": "A história de Allendri & Macos Vinicius. Um filme de Nicolas Paschoal.",
+        "eps": [
+          {
+            "video": "Ztdi6AhgC78",
+            "title": "A história de Allendri e Macos Vinicius",
+            "duration": "10:25"
+          }
+        ],
+        "cover": "https://i.ytimg.com/vi/Ztdi6AhgC78/hqdefault.jpg",
+        "visible": true
+      },
+      {
+        "id": "danilo-michele",
+        "couple": "Danilo & Michele",
+        "title": "Danilo & Michele",
+        "type": "film",
+        "label": "FILME DE CASAMENTO",
+        "meta": "17 min",
+        "location": "",
+        "img": "doe6Nbp8-jQ",
+        "desc": "A história de Danilo & Michele. Um filme de Nicolas Paschoal.",
+        "eps": [
+          {
+            "video": "doe6Nbp8-jQ",
+            "title": "O casamento de Danilo e Michele",
+            "duration": "17 min"
+          }
+        ],
+        "cover": "https://i.ytimg.com/vi/doe6Nbp8-jQ/hqdefault.jpg",
+        "visible": true
+      },
+      {
+        "id": "natalia-lucas",
+        "couple": "Natalia & Lucas",
+        "title": "Natalia & Lucas",
+        "type": "film",
+        "label": "FILME DE CASAMENTO",
+        "meta": "11:29",
+        "location": "",
+        "img": "WqvjVOenxAQ",
+        "desc": "A história de Natalia & Lucas. Um filme de Nicolas Paschoal.",
+        "eps": [
+          {
+            "video": "WqvjVOenxAQ",
+            "title": "O casamento de Natalia e Lucas",
+            "duration": "11:29"
+          }
+        ],
+        "cover": "https://i.ytimg.com/vi/WqvjVOenxAQ/hqdefault.jpg",
+        "visible": true
+      },
+      {
+        "id": "clara-caique",
+        "couple": "Clara & Caique",
+        "title": "Clara & Caique",
+        "type": "film",
+        "label": "FILME DE CASAMENTO",
+        "meta": "18 min",
+        "location": "",
+        "img": "X9wR_HxZkNI",
+        "desc": "A história de Clara & Caique. Um filme de Nicolas Paschoal.",
+        "eps": [
+          {
+            "video": "X9wR_HxZkNI",
+            "title": "Celebrando o amor",
+            "duration": "18 min"
+          }
+        ],
+        "cover": "https://i.ytimg.com/vi/X9wR_HxZkNI/hqdefault.jpg",
+        "visible": true
+      },
+      {
+        "id": "jack-lucas",
+        "couple": "Jack & Lucas",
+        "title": "Jack & Lucas",
+        "type": "film",
+        "label": "FILME DE CASAMENTO",
+        "meta": "7:44",
+        "location": "",
+        "img": "Q9FtAyT9s8I",
+        "desc": "A história de Jack & Lucas. Um filme de Nicolas Paschoal.",
+        "eps": [
+          {
+            "video": "Q9FtAyT9s8I",
+            "title": "O casamento de Jack e Lucas",
+            "duration": "7:44"
+          }
+        ],
+        "cover": "https://i.ytimg.com/vi/Q9FtAyT9s8I/hqdefault.jpg",
+        "visible": true
+      }
+    ],
+    "settings": {
+      "whatsapp": "5512988274244",
+      "background": "#101110",
+      "text": "#eae7df",
+      "accent": "#d3ff7a"
+    }
+  },
+  "history": [
+    {
+      "id": "ef64246e-4c64-4480-8adb-5d31b0374336",
+      "date": "2026-10-22T18:03:48.160Z",
+      "content": {
+        "fields": {
+          "home_0": "Nicolas Paschoal — Cinema documental",
+          "home_1": "#",
+          "home_2": "Nicolas Paschoal",
+          "home_3": "Cinema documental",
+          "home_4": "#filmes",
+          "home_5": "Os filmes",
+          "home_6": "#olhar",
+          "home_7": "Nosso olhar",
+          "home_8": "/investimento/",
+          "home_9": "Investimento",
+          "home_10": "#contato",
+          "home_11": "Vamos conversar",
+          "home_12": "↗",
+          "home_13": "/media/efaad256-905a-4a28-a683-404e1b18a142.jpg",
+          "home_14": "Nicolas Paschoal · Filmes de casamento",
+          "home_15": "A vida acontece.",
+          "home_16": "O cinema",
+          "home_17": "permanece.",
+          "home_18": "Histórias reais. Pessoas inteiras.",
+          "home_19": "Um olhar documental sobre o que fica.",
+          "home_20": "Explore os filmes",
+          "home_21": "HISTÓRIAS REAIS, CONTADAS DE DENTRO",
+          "home_22": "CINEMA DOCUMENTAL DE CASAMENTO",
+          "home_23": "AFETO",
+          "home_24": "/",
+          "home_25": "MEMÓRIA",
+          "home_26": "PRESENÇA",
+          "home_27": "UM FILME. A SUA HISTÓRIA.",
+          "home_28": "O acervo",
+          "home_29": "Cada história, um universo.",
+          "home_30": "Todos os filmes",
+          "home_31": "Filmes",
+          "home_32": "Séries",
+          "home_33": "16 histórias · 21 filmes e capítulos · Nicolas Paschoal",
+          "home_34": "O extraordinário está",
+          "home_35": "no que é",
+          "home_36": "verdadeiro.",
+          "home_37": "A voz que falha. O abraço que demora. Uma conversa que ninguém planejou. É nesses encontros que buscamos a história de um casamento: nas pessoas e no que acontece entre elas.",
+          "home_38": "Sou Nicolas Paschoal. Nasci em Ubatuba e cresci com os registros que meus pais e avós faziam da nossa família. Foi dessa relação com a memória que nasceu meu desejo de contar histórias através da imagem.",
+          "home_39": "Hoje, busco preservar os olhares, os gestos, as vozes e os abraços que fazem cada história ser única.",
+          "home_40": "O próximo filme",
+          "home_41": "Começa com",
+          "home_42": "a sua história.",
+          "home_43": "Fale com Nicolas",
+          "home_44": "©",
+          "home_45": "Nicolas Paschoal",
+          "home_46": "Cinema documental de casamento",
+          "home_47": "Voltar ao início ↑",
+          "home_48": "×",
+          "investment_49": "Investimento — Nicolas Paschoal",
+          "investment_50": "/",
+          "investment_51": "Nicolas Paschoal",
+          "investment_52": "Cinema documental",
+          "investment_53": "/#filmes",
+          "investment_54": "Os filmes",
+          "investment_55": "/#olhar",
+          "investment_56": "Nosso olhar",
+          "investment_57": "/investimento/",
+          "investment_58": "Investimento",
+          "investment_59": "#proposta",
+          "investment_60": "Vamos conversar",
+          "investment_61": "↗",
+          "investment_62": "Investimento · Filmes de casamento",
+          "investment_63": "Uma história sua.",
+          "investment_64": "Um filme para",
+          "investment_65": "a vida inteira.",
+          "investment_66": "Cada casamento tem seu próprio ritmo, suas pessoas e suas memórias. Escolham a experiência que faz sentido para vocês — ou construam comigo uma proposta personalizada.",
+          "investment_67": "#experiencias",
+          "investment_68": "Conheça as experiências",
+          "investment_69": "↓",
+          "investment_70": "/media/7672860a-dbb3-4438-b482-1f212f5a6b7a.jpg",
+          "investment_71": "TRÊS FORMAS DE PRESERVAR A SUA HISTÓRIA",
+          "investment_72": "ESSENCIAL",
+          "investment_73": "/",
+          "investment_74": "AUTORAL",
+          "investment_75": "ÍNTEGRA",
+          "investment_76": "UM OLHAR. DIFERENTES POSSIBILIDADES.",
+          "investment_77": "As experiências",
+          "investment_78": "O que vocês querem guardar?",
+          "investment_79": "Dos momentos essenciais à construção de uma narrativa documental sobre vocês.",
+          "investment_80": "01 / ESSENCIAL",
+          "investment_81": "Essencial",
+          "investment_82": "Os momentos do casamento reunidos em um filme para voltar a sentir aquele dia.",
+          "investment_83": "Investimento a partir de",
+          "investment_84": "R$ 7.200",
+          "investment_85": "à vista",
+          "investment_86": "ou R$ 8.000 em até 8x",
+          "investment_87": "A cobertura",
+          "investment_88": "8 horas de cobertura",
+          "investment_89": "Making of dos noivos, cerimônia, recepção e festa",
+          "investment_90": "2 filmmakers + drone",
+          "investment_91": "Highlights de até 2 minutos",
+          "investment_92": "Teaser com média de 7 minutos, com melhores momentos e votos dos noivos",
+          "investment_93": "Entrega em até 45 dias úteis após o casamento.",
+          "investment_94": "Conversar sobre o Essencial",
+          "investment_95": "02 / AUTORAL",
+          "investment_96": "O OLHAR DOCUMENTAL",
+          "investment_97": "Autoral",
+          "investment_98": "O casamento contado através da história de vocês. Um filme que começa antes do grande dia.",
+          "investment_99": "R$ 15.000",
+          "investment_100": "ou R$ 16.900 em até 8x",
+          "investment_101": "A construção da história",
+          "investment_102": "Entrevistas com o casal e familiares",
+          "investment_103": "Fotos, vídeos caseiros e memórias da infância",
+          "investment_104": "Ensaio de pré-wedding",
+          "investment_105": "Making of, cerimônia, recepção e festa",
+          "investment_106": "3 filmmakers + drone",
+          "investment_107": "Teaser com média de 20 minutos, com melhores momentos e votos dos noivos",
+          "investment_108": "Entrega em até 60 dias úteis após o casamento.",
+          "investment_109": "Construir nosso filme",
+          "investment_110": "03 / ÍNTEGRA",
+          "investment_111": "Íntegra",
+          "investment_112": "Do making of à celebração da festa, com a cerimônia preservada na íntegra.",
+          "investment_113": "R$ 14.000",
+          "investment_114": "ou R$ 15.000 em até 12x",
+          "investment_115": "Making of dos noivos",
+          "investment_116": "Cerimônia na íntegra: entradas, votos e discursos",
+          "investment_117": "Recepção e melhores momentos da festa",
+          "investment_118": "4 filmmakers + drone",
+          "investment_119": "Vídeo na íntegra, com duração de acordo com o evento",
+          "investment_120": "Highlights de até 1 minuto",
+          "investment_121": "Conversar sobre o Íntegra",
+          "investment_122": "Os valores são iniciais. Para uma cobertura personalizada, conversamos sobre equipe, duração, narrativa e entregas.",
+          "investment_123": "Dentro da experiência Autoral",
+          "investment_124": "A história começa",
+          "investment_125": "antes do",
+          "investment_126": "sim.",
+          "investment_127": "O dia do casamento é parte de uma história maior. No Autoral, abrimos espaço para as vozes e as memórias que trouxeram vocês até aqui.",
+          "investment_128": "01",
+          "investment_129": "Escutar quem vocês são",
+          "investment_130": "Entrevistas com o casal e familiares para conhecer a história e as pessoas que fazem parte dela.",
+          "investment_131": "02",
+          "investment_132": "Revisitar as memórias",
+          "investment_133": "Fotos da infância, vídeos caseiros e registros pessoais ajudam a compor a narrativa, junto ao ensaio de pré-wedding.",
+          "investment_134": "03",
+          "investment_135": "Documentar o encontro",
+          "investment_136": "Do making of à festa, o casamento ganha seu lugar dentro dessa história, com os melhores momentos e os votos de vocês.",
+          "investment_137": "Lado a lado",
+          "investment_138": "Encontrem a sua experiência.",
+          "investment_139": "O que está incluído",
+          "investment_140": "Equipe",
+          "investment_141": "Construção antes do casamento",
+          "investment_142": "—",
+          "investment_143": "Entrevistas, memórias e pré-wedding",
+          "investment_144": "Vídeo principal",
+          "investment_145": "Teaser · média de 7 min",
+          "investment_146": "Teaser · média de 20 min",
+          "investment_147": "Íntegra · duração conforme o evento",
+          "investment_148": "Highlights",
+          "investment_149": "Até 2 min",
+          "investment_150": "Até 1 min",
+          "investment_151": "Prazo após o casamento",
+          "investment_152": "Até 45 dias úteis",
+          "investment_153": "Até 60 dias úteis",
+          "investment_154": "A partir de, à vista",
+          "investment_155": "A partir de, parcelado",
+          "investment_156": "R$ 7.000 em até 8x",
+          "investment_157": "R$ 16.900 em até 8x",
+          "investment_158": "R$ 15.000 em até 12x",
+          "investment_159": "Antes de conversar",
+          "investment_160": "Algumas respostas",
+          "investment_161": "para começar.",
+          "investment_162": "Posso personalizar a cobertura?",
+          "investment_163": "Sim. Podemos adaptar equipe, duração, quantidade de câmeras, cobertura, narrativa e entregas ao que faz sentido para o casamento de vocês.",
+          "investment_164": "Qual experiência inclui pré-wedding e entrevistas?",
+          "investment_165": "A experiência Autoral inclui ensaio de pré-wedding, entrevistas com o casal e familiares e a busca por fotos e vídeos pessoais para construir a narrativa.",
+          "investment_166": "Em quanto tempo recebemos os filmes?",
+          "investment_167": "Essencial e Íntegra têm prazo de até 45 dias úteis após o casamento. No Autoral, o prazo é de até 60 dias úteis.",
+          "investment_168": "Onde podemos conhecer os filmes?",
+          "investment_169": "Explore",
+          "investment_170": "o acervo de casamentos",
+          "investment_171": ". Cada história tem sua própria página, com os filmes e capítulos disponíveis para assistir.",
+          "investment_172": "Uma proposta para vocês",
+          "investment_173": "E se a sua história",
+          "investment_174": "pedir",
+          "investment_175": "outro caminho?",
+          "investment_176": "Contem a data, o lugar e o que vocês imaginam para o casamento. Vamos conversar sobre a melhor forma de documentar tudo isso.",
+          "investment_177": "Por onde vocês gostariam de começar?",
+          "investment_178": "Uma proposta personalizada",
+          "investment_179": "Experiência Essencial",
+          "investment_180": "Experiência Autoral",
+          "investment_181": "Experiência Íntegra",
+          "investment_182": "Conversar com Nicolas",
+          "investment_183": "Vamos continuar a conversa pelo WhatsApp.",
+          "investment_184": "© Nicolas Paschoal · Cinema documental",
+          "investment_185": "Conheça os filmes ↗",
+          "investment_186": "#",
+          "investment_187": "Voltar ao início ↑"
+        },
+        "films": [
+          {
+            "id": "gabi-jeremy",
+            "couple": "Gabi & Jeremy",
+            "title": "Gabi & Jeremy",
+            "type": "series",
+            "label": "UMA HISTÓRIA EM CAPÍTULOS",
+            "meta": "2 capítulos",
+            "location": "Paraty — RJ",
+            "img": "UxSlGfBtUzs",
+            "desc": "A história de Gabi & Jeremy, em Paraty — RJ. O filme e os outros capítulos deste casamento, reunidos em um só lugar.",
+            "eps": [
+              {
+                "video": "UxSlGfBtUzs",
+                "title": "Filme de casamento",
+                "duration": "31 min"
+              },
+              {
+                "video": "xNsodEBZgs8",
+                "title": "Highlights",
+                "duration": "2:23"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/UxSlGfBtUzs/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "helena-lucas",
+            "couple": "Helena & Lucas",
+            "title": "Helena & Lucas",
+            "type": "series",
+            "label": "UMA HISTÓRIA EM CAPÍTULOS",
+            "meta": "2 capítulos",
+            "location": "",
+            "img": "gqn8v9spSck",
+            "desc": "A história de Helena & Lucas. O filme e os outros capítulos deste casamento, reunidos em um só lugar.",
+            "eps": [
+              {
+                "video": "gqn8v9spSck",
+                "title": "A Wedding Film",
+                "duration": "12:39"
+              },
+              {
+                "video": "BetO1PCe5SE",
+                "title": "Highlights",
+                "duration": "2:01"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/gqn8v9spSck/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "jamili-cristian",
+            "couple": "Jamili & Cristian",
+            "title": "Jamili & Cristian",
+            "type": "series",
+            "label": "UMA HISTÓRIA EM CAPÍTULOS",
+            "meta": "2 capítulos",
+            "location": "Itamambuca, Ubatuba — SP",
+            "img": "6M464Hbf95U",
+            "desc": "A história de Jamili & Cristian, em Itamambuca, Ubatuba — SP. O filme e os outros capítulos deste casamento, reunidos em um só lugar.",
+            "eps": [
+              {
+                "video": "6M464Hbf95U",
+                "title": "Filme de casamento",
+                "duration": "19 min"
+              },
+              {
+                "video": "uNtFCJna2h4",
+                "title": "Highlights",
+                "duration": "1:22"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/6M464Hbf95U/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "mari-caique",
+            "couple": "Mari & Caique",
+            "title": "Mari & Caique",
+            "type": "series",
+            "label": "UMA HISTÓRIA EM CAPÍTULOS",
+            "meta": "2 capítulos",
+            "location": "",
+            "img": "Q9uvhQamTLQ",
+            "desc": "A história de Mari & Caique. O filme e os outros capítulos deste casamento, reunidos em um só lugar.",
+            "eps": [
+              {
+                "video": "Q9uvhQamTLQ",
+                "title": "Mari e Caique",
+                "duration": "2:10"
+              },
+              {
+                "video": "7Rdvm0Hix-0",
+                "title": "Wedding Highlights",
+                "duration": "1:34"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/Q9uvhQamTLQ/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "isabela-luiz",
+            "couple": "Isabela & Luiz",
+            "title": "Isabela & Luiz",
+            "type": "series",
+            "label": "UMA HISTÓRIA EM CAPÍTULOS",
+            "meta": "2 capítulos",
+            "location": "",
+            "img": "0aUHgUxuMhI",
+            "desc": "A história de Isabela & Luiz. O filme e os outros capítulos deste casamento, reunidos em um só lugar.",
+            "eps": [
+              {
+                "video": "0aUHgUxuMhI",
+                "title": "Pré-wedding · Vila Bosque Bambu, Jarinu",
+                "duration": "2:09"
+              },
+              {
+                "video": "mwoEW9bFv7k",
+                "title": "Highlights",
+                "duration": "1:42"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/0aUHgUxuMhI/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "fernando-isabelle",
+            "couple": "Fernando & Isabelle",
+            "title": "Fernando & Isabelle",
+            "type": "film",
+            "label": "FILME DE CASAMENTO",
+            "meta": "2:25",
+            "location": "Praia do Félix, Ubatuba — SP",
+            "img": "jiIHNkxZEgQ",
+            "desc": "A história de Fernando & Isabelle, em Praia do Félix, Ubatuba — SP. Um filme de Nicolas Paschoal.",
+            "eps": [
+              {
+                "video": "jiIHNkxZEgQ",
+                "title": "Highlights",
+                "duration": "2:25"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/jiIHNkxZEgQ/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "tati-max",
+            "couple": "Tati & Max",
+            "title": "Tati & Max",
+            "type": "film",
+            "label": "FILME DE CASAMENTO",
+            "meta": "24 min",
+            "location": "Brasil e Alemanha",
+            "img": "1iuiEvEjMEc",
+            "desc": "A história de Tati & Max. Um filme de Nicolas Paschoal.",
+            "eps": [
+              {
+                "video": "1iuiEvEjMEc",
+                "title": "Amor sem fronteiras",
+                "duration": "24 min"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/1iuiEvEjMEc/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "amanda-claick",
+            "couple": "Amanda & Claick",
+            "title": "Amanda & Claick",
+            "type": "film",
+            "label": "FILME DE CASAMENTO",
+            "meta": "27 min",
+            "location": "",
+            "img": "hBs-qsXK1D0",
+            "desc": "A história de Amanda & Claick. Um filme de Nicolas Paschoal.",
+            "eps": [
+              {
+                "video": "hBs-qsXK1D0",
+                "title": "Amor com nariz vermelho",
+                "duration": "27 min"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/hBs-qsXK1D0/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "andressa-edwin",
+            "couple": "Andressa & Edwin",
+            "title": "Andressa & Edwin",
+            "type": "film",
+            "label": "FILME DE CASAMENTO",
+            "meta": "1:40",
+            "location": "",
+            "img": "xMxtnLPh6LA",
+            "desc": "A história de Andressa & Edwin. Um filme de Nicolas Paschoal.",
+            "eps": [
+              {
+                "video": "xMxtnLPh6LA",
+                "title": "Highlights · 12 de abril de 2026",
+                "duration": "1:40"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/xMxtnLPh6LA/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "bea-renan",
+            "couple": "Bea & Renan",
+            "title": "Bea & Renan",
+            "type": "film",
+            "label": "FILME DE CASAMENTO",
+            "meta": "2:41",
+            "location": "",
+            "img": "g3vMBGJRgnc",
+            "desc": "A história de Bea & Renan. Um filme de Nicolas Paschoal.",
+            "eps": [
+              {
+                "video": "g3vMBGJRgnc",
+                "title": "Bea e Renan",
+                "duration": "2:41"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/g3vMBGJRgnc/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "camila-gabriel",
+            "couple": "Camila & Gabriel",
+            "title": "Camila & Gabriel",
+            "type": "film",
+            "label": "FILME DE CASAMENTO",
+            "meta": "2:39",
+            "location": "",
+            "img": "gk5ujv_AWZ8",
+            "desc": "A história de Camila & Gabriel. Um filme de Nicolas Paschoal.",
+            "eps": [
+              {
+                "video": "gk5ujv_AWZ8",
+                "title": "Highlights",
+                "duration": "2:39"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/gk5ujv_AWZ8/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "allendri-macos-vinicius",
+            "couple": "Allendri & Macos Vinicius",
+            "title": "Allendri & Macos Vinicius",
+            "type": "film",
+            "label": "FILME DE CASAMENTO",
+            "meta": "10:25",
+            "location": "",
+            "img": "Ztdi6AhgC78",
+            "desc": "A história de Allendri & Macos Vinicius. Um filme de Nicolas Paschoal.",
+            "eps": [
+              {
+                "video": "Ztdi6AhgC78",
+                "title": "A história de Allendri e Macos Vinicius",
+                "duration": "10:25"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/Ztdi6AhgC78/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "danilo-michele",
+            "couple": "Danilo & Michele",
+            "title": "Danilo & Michele",
+            "type": "film",
+            "label": "FILME DE CASAMENTO",
+            "meta": "17 min",
+            "location": "",
+            "img": "doe6Nbp8-jQ",
+            "desc": "A história de Danilo & Michele. Um filme de Nicolas Paschoal.",
+            "eps": [
+              {
+                "video": "doe6Nbp8-jQ",
+                "title": "O casamento de Danilo e Michele",
+                "duration": "17 min"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/doe6Nbp8-jQ/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "natalia-lucas",
+            "couple": "Natalia & Lucas",
+            "title": "Natalia & Lucas",
+            "type": "film",
+            "label": "FILME DE CASAMENTO",
+            "meta": "11:29",
+            "location": "",
+            "img": "WqvjVOenxAQ",
+            "desc": "A história de Natalia & Lucas. Um filme de Nicolas Paschoal.",
+            "eps": [
+              {
+                "video": "WqvjVOenxAQ",
+                "title": "O casamento de Natalia e Lucas",
+                "duration": "11:29"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/WqvjVOenxAQ/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "clara-caique",
+            "couple": "Clara & Caique",
+            "title": "Clara & Caique",
+            "type": "film",
+            "label": "FILME DE CASAMENTO",
+            "meta": "18 min",
+            "location": "",
+            "img": "X9wR_HxZkNI",
+            "desc": "A história de Clara & Caique. Um filme de Nicolas Paschoal.",
+            "eps": [
+              {
+                "video": "X9wR_HxZkNI",
+                "title": "Celebrando o amor",
+                "duration": "18 min"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/X9wR_HxZkNI/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "jack-lucas",
+            "couple": "Jack & Lucas",
+            "title": "Jack & Lucas",
+            "type": "film",
+            "label": "FILME DE CASAMENTO",
+            "meta": "7:44",
+            "location": "",
+            "img": "Q9FtAyT9s8I",
+            "desc": "A história de Jack & Lucas. Um filme de Nicolas Paschoal.",
+            "eps": [
+              {
+                "video": "Q9FtAyT9s8I",
+                "title": "O casamento de Jack e Lucas",
+                "duration": "7:44"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/Q9FtAyT9s8I/hqdefault.jpg",
+            "visible": true
+          }
+        ],
+        "settings": {
+          "whatsapp": "5512988274244",
+          "background": "#101110",
+          "text": "#eae7df",
+          "accent": "#d3ff7a"
+        }
+      }
+    },
+    {
+      "id": "f9da6811-e35d-4f82-a17d-961f0dc511b4",
+      "date": "2026-10-22T18:01:40.766Z",
+      "content": {
+        "fields": {
+          "home_0": "Nicolas Paschoal — Cinema documental",
+          "home_1": "#",
+          "home_2": "Nicolas Paschoal",
+          "home_3": "Cinema documental",
+          "home_4": "#filmes",
+          "home_5": "Os filmes",
+          "home_6": "#olhar",
+          "home_7": "Nosso olhar",
+          "home_8": "/investimento/",
+          "home_9": "Investimento",
+          "home_10": "#contato",
+          "home_11": "Vamos conversar",
+          "home_12": "↗",
+          "home_13": "/media/efaad256-905a-4a28-a683-404e1b18a142.jpg",
+          "home_14": "Nicolas Paschoal · Filmes de casamento",
+          "home_15": "A vida acontece.",
+          "home_16": "O cinema",
+          "home_17": "permanece.",
+          "home_18": "Histórias reais. Pessoas inteiras.",
+          "home_19": "Um olhar documental sobre o que fica.",
+          "home_20": "Explore os filmes",
+          "home_21": "HISTÓRIAS REAIS, CONTADAS DE DENTRO",
+          "home_22": "CINEMA DOCUMENTAL DE CASAMENTO",
+          "home_23": "AFETO",
+          "home_24": "/",
+          "home_25": "MEMÓRIA",
+          "home_26": "PRESENÇA",
+          "home_27": "UM FILME. A SUA HISTÓRIA.",
+          "home_28": "O acervo",
+          "home_29": "Cada história, um universo.",
+          "home_30": "Todos os filmes",
+          "home_31": "Filmes",
+          "home_32": "Séries",
+          "home_33": "16 histórias · 21 filmes e capítulos · Nicolas Paschoal",
+          "home_34": "O extraordinário está",
+          "home_35": "no que é",
+          "home_36": "verdadeiro.",
+          "home_37": "A voz que falha. O abraço que demora. Uma conversa que ninguém planejou. É nesses encontros que buscamos a história de um casamento: nas pessoas e no que acontece entre elas.",
+          "home_38": "Sou Nicolas Paschoal. Nasci em Ubatuba e cresci com os registros que meus pais e avós faziam da nossa família. Foi dessa relação com a memória que nasceu meu desejo de contar histórias através da imagem.",
+          "home_39": "Hoje, busco preservar os olhares, os gestos, as vozes e os abraços que fazem cada história ser única.",
+          "home_40": "O próximo filme",
+          "home_41": "Começa com",
+          "home_42": "a sua história.",
+          "home_43": "Fale com Nicolas",
+          "home_44": "©",
+          "home_45": "Nicolas Paschoal",
+          "home_46": "Cinema documental de casamento",
+          "home_47": "Voltar ao início ↑",
+          "home_48": "×",
+          "investment_49": "Investimento — Nicolas Paschoal",
+          "investment_50": "/",
+          "investment_51": "Nicolas Paschoal",
+          "investment_52": "Cinema documental",
+          "investment_53": "/#filmes",
+          "investment_54": "Os filmes",
+          "investment_55": "/#olhar",
+          "investment_56": "Nosso olhar",
+          "investment_57": "/investimento/",
+          "investment_58": "Investimento",
+          "investment_59": "#proposta",
+          "investment_60": "Vamos conversar",
+          "investment_61": "↗",
+          "investment_62": "Investimento · Filmes de casamento",
+          "investment_63": "Uma história sua.",
+          "investment_64": "Um filme para",
+          "investment_65": "a vida inteira.",
+          "investment_66": "Cada casamento tem seu próprio ritmo, suas pessoas e suas memórias. Escolham a experiência que faz sentido para vocês — ou construam comigo uma proposta personalizada.",
+          "investment_67": "#experiencias",
+          "investment_68": "Conheça as experiências",
+          "investment_69": "↓",
+          "investment_70": "/media/7672860a-dbb3-4438-b482-1f212f5a6b7a.jpg",
+          "investment_71": "TRÊS FORMAS DE PRESERVAR A SUA HISTÓRIA",
+          "investment_72": "ESSENCIAL",
+          "investment_73": "/",
+          "investment_74": "AUTORAL",
+          "investment_75": "ÍNTEGRA",
+          "investment_76": "UM OLHAR. DIFERENTES POSSIBILIDADES.",
+          "investment_77": "As experiências",
+          "investment_78": "O que vocês querem guardar?",
+          "investment_79": "Dos momentos essenciais à construção de uma narrativa documental sobre vocês.",
+          "investment_80": "01 / ESSENCIAL",
+          "investment_81": "Essencial",
+          "investment_82": "Os momentos do casamento reunidos em um filme para voltar a sentir aquele dia.",
+          "investment_83": "Investimento a partir de",
+          "investment_84": "R$ 6.200",
+          "investment_85": "à vista",
+          "investment_86": "ou R$ 7.000 em até 8x",
+          "investment_87": "A cobertura",
+          "investment_88": "8 horas de cobertura",
+          "investment_89": "Making of dos noivos, cerimônia, recepção e festa",
+          "investment_90": "2 filmmakers + drone",
+          "investment_91": "Highlights de até 2 minutos",
+          "investment_92": "Teaser com média de 7 minutos, com melhores momentos e votos dos noivos",
+          "investment_93": "Entrega em até 45 dias úteis após o casamento.",
+          "investment_94": "Conversar sobre o Essencial",
+          "investment_95": "02 / AUTORAL",
+          "investment_96": "O OLHAR DOCUMENTAL",
+          "investment_97": "Autoral",
+          "investment_98": "O casamento contado através da história de vocês. Um filme que começa antes do grande dia.",
+          "investment_99": "R$ 15.000",
+          "investment_100": "ou R$ 16.900 em até 8x",
+          "investment_101": "A construção da história",
+          "investment_102": "Entrevistas com o casal e familiares",
+          "investment_103": "Fotos, vídeos caseiros e memórias da infância",
+          "investment_104": "Ensaio de pré-wedding",
+          "investment_105": "Making of, cerimônia, recepção e festa",
+          "investment_106": "3 filmmakers + drone",
+          "investment_107": "Teaser com média de 20 minutos, com melhores momentos e votos dos noivos",
+          "investment_108": "Entrega em até 60 dias úteis após o casamento.",
+          "investment_109": "Construir nosso filme",
+          "investment_110": "03 / ÍNTEGRA",
+          "investment_111": "Íntegra",
+          "investment_112": "Do making of à celebração da festa, com a cerimônia preservada na íntegra.",
+          "investment_113": "R$ 14.000",
+          "investment_114": "ou R$ 15.000 em até 12x",
+          "investment_115": "Making of dos noivos",
+          "investment_116": "Cerimônia na íntegra: entradas, votos e discursos",
+          "investment_117": "Recepção e melhores momentos da festa",
+          "investment_118": "4 filmmakers + drone",
+          "investment_119": "Vídeo na íntegra, com duração de acordo com o evento",
+          "investment_120": "Highlights de até 1 minuto",
+          "investment_121": "Conversar sobre o Íntegra",
+          "investment_122": "Os valores são iniciais. Para uma cobertura personalizada, conversamos sobre equipe, duração, narrativa e entregas.",
+          "investment_123": "Dentro da experiência Autoral",
+          "investment_124": "A história começa",
+          "investment_125": "antes do",
+          "investment_126": "sim.",
+          "investment_127": "O dia do casamento é parte de uma história maior. No Autoral, abrimos espaço para as vozes e as memórias que trouxeram vocês até aqui.",
+          "investment_128": "01",
+          "investment_129": "Escutar quem vocês são",
+          "investment_130": "Entrevistas com o casal e familiares para conhecer a história e as pessoas que fazem parte dela.",
+          "investment_131": "02",
+          "investment_132": "Revisitar as memórias",
+          "investment_133": "Fotos da infância, vídeos caseiros e registros pessoais ajudam a compor a narrativa, junto ao ensaio de pré-wedding.",
+          "investment_134": "03",
+          "investment_135": "Documentar o encontro",
+          "investment_136": "Do making of à festa, o casamento ganha seu lugar dentro dessa história, com os melhores momentos e os votos de vocês.",
+          "investment_137": "Lado a lado",
+          "investment_138": "Encontrem a sua experiência.",
+          "investment_139": "O que está incluído",
+          "investment_140": "Equipe",
+          "investment_141": "Construção antes do casamento",
+          "investment_142": "—",
+          "investment_143": "Entrevistas, memórias e pré-wedding",
+          "investment_144": "Vídeo principal",
+          "investment_145": "Teaser · média de 7 min",
+          "investment_146": "Teaser · média de 20 min",
+          "investment_147": "Íntegra · duração conforme o evento",
+          "investment_148": "Highlights",
+          "investment_149": "Até 2 min",
+          "investment_150": "Até 1 min",
+          "investment_151": "Prazo após o casamento",
+          "investment_152": "Até 45 dias úteis",
+          "investment_153": "Até 60 dias úteis",
+          "investment_154": "A partir de, à vista",
+          "investment_155": "A partir de, parcelado",
+          "investment_156": "R$ 7.000 em até 8x",
+          "investment_157": "R$ 16.900 em até 8x",
+          "investment_158": "R$ 15.000 em até 12x",
+          "investment_159": "Antes de conversar",
+          "investment_160": "Algumas respostas",
+          "investment_161": "para começar.",
+          "investment_162": "Posso personalizar a cobertura?",
+          "investment_163": "Sim. Podemos adaptar equipe, duração, quantidade de câmeras, cobertura, narrativa e entregas ao que faz sentido para o casamento de vocês.",
+          "investment_164": "Qual experiência inclui pré-wedding e entrevistas?",
+          "investment_165": "A experiência Autoral inclui ensaio de pré-wedding, entrevistas com o casal e familiares e a busca por fotos e vídeos pessoais para construir a narrativa.",
+          "investment_166": "Em quanto tempo recebemos os filmes?",
+          "investment_167": "Essencial e Íntegra têm prazo de até 45 dias úteis após o casamento. No Autoral, o prazo é de até 60 dias úteis.",
+          "investment_168": "Onde podemos conhecer os filmes?",
+          "investment_169": "Explore",
+          "investment_170": "o acervo de casamentos",
+          "investment_171": ". Cada história tem sua própria página, com os filmes e capítulos disponíveis para assistir.",
+          "investment_172": "Uma proposta para vocês",
+          "investment_173": "E se a sua história",
+          "investment_174": "pedir",
+          "investment_175": "outro caminho?",
+          "investment_176": "Contem a data, o lugar e o que vocês imaginam para o casamento. Vamos conversar sobre a melhor forma de documentar tudo isso.",
+          "investment_177": "Por onde vocês gostariam de começar?",
+          "investment_178": "Uma proposta personalizada",
+          "investment_179": "Experiência Essencial",
+          "investment_180": "Experiência Autoral",
+          "investment_181": "Experiência Íntegra",
+          "investment_182": "Conversar com Nicolas",
+          "investment_183": "Vamos continuar a conversa pelo WhatsApp.",
+          "investment_184": "© Nicolas Paschoal · Cinema documental",
+          "investment_185": "Conheça os filmes ↗",
+          "investment_186": "#",
+          "investment_187": "Voltar ao início ↑"
+        },
+        "films": [
+          {
+            "id": "gabi-jeremy",
+            "couple": "Gabi & Jeremy",
+            "title": "Gabi & Jeremy",
+            "type": "series",
+            "label": "UMA HISTÓRIA EM CAPÍTULOS",
+            "meta": "2 capítulos",
+            "location": "Paraty — RJ",
+            "img": "UxSlGfBtUzs",
+            "desc": "A história de Gabi & Jeremy, em Paraty — RJ. O filme e os outros capítulos deste casamento, reunidos em um só lugar.",
+            "eps": [
+              {
+                "video": "UxSlGfBtUzs",
+                "title": "Filme de casamento",
+                "duration": "31 min"
+              },
+              {
+                "video": "xNsodEBZgs8",
+                "title": "Highlights",
+                "duration": "2:23"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/UxSlGfBtUzs/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "helena-lucas",
+            "couple": "Helena & Lucas",
+            "title": "Helena & Lucas",
+            "type": "series",
+            "label": "UMA HISTÓRIA EM CAPÍTULOS",
+            "meta": "2 capítulos",
+            "location": "",
+            "img": "gqn8v9spSck",
+            "desc": "A história de Helena & Lucas. O filme e os outros capítulos deste casamento, reunidos em um só lugar.",
+            "eps": [
+              {
+                "video": "gqn8v9spSck",
+                "title": "A Wedding Film",
+                "duration": "12:39"
+              },
+              {
+                "video": "BetO1PCe5SE",
+                "title": "Highlights",
+                "duration": "2:01"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/gqn8v9spSck/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "jamili-cristian",
+            "couple": "Jamili & Cristian",
+            "title": "Jamili & Cristian",
+            "type": "series",
+            "label": "UMA HISTÓRIA EM CAPÍTULOS",
+            "meta": "2 capítulos",
+            "location": "Itamambuca, Ubatuba — SP",
+            "img": "6M464Hbf95U",
+            "desc": "A história de Jamili & Cristian, em Itamambuca, Ubatuba — SP. O filme e os outros capítulos deste casamento, reunidos em um só lugar.",
+            "eps": [
+              {
+                "video": "6M464Hbf95U",
+                "title": "Filme de casamento",
+                "duration": "19 min"
+              },
+              {
+                "video": "uNtFCJna2h4",
+                "title": "Highlights",
+                "duration": "1:22"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/6M464Hbf95U/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "mari-caique",
+            "couple": "Mari & Caique",
+            "title": "Mari & Caique",
+            "type": "series",
+            "label": "UMA HISTÓRIA EM CAPÍTULOS",
+            "meta": "2 capítulos",
+            "location": "",
+            "img": "Q9uvhQamTLQ",
+            "desc": "A história de Mari & Caique. O filme e os outros capítulos deste casamento, reunidos em um só lugar.",
+            "eps": [
+              {
+                "video": "Q9uvhQamTLQ",
+                "title": "Mari e Caique",
+                "duration": "2:10"
+              },
+              {
+                "video": "7Rdvm0Hix-0",
+                "title": "Wedding Highlights",
+                "duration": "1:34"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/Q9uvhQamTLQ/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "isabela-luiz",
+            "couple": "Isabela & Luiz",
+            "title": "Isabela & Luiz",
+            "type": "series",
+            "label": "UMA HISTÓRIA EM CAPÍTULOS",
+            "meta": "2 capítulos",
+            "location": "",
+            "img": "0aUHgUxuMhI",
+            "desc": "A história de Isabela & Luiz. O filme e os outros capítulos deste casamento, reunidos em um só lugar.",
+            "eps": [
+              {
+                "video": "0aUHgUxuMhI",
+                "title": "Pré-wedding · Vila Bosque Bambu, Jarinu",
+                "duration": "2:09"
+              },
+              {
+                "video": "mwoEW9bFv7k",
+                "title": "Highlights",
+                "duration": "1:42"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/0aUHgUxuMhI/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "fernando-isabelle",
+            "couple": "Fernando & Isabelle",
+            "title": "Fernando & Isabelle",
+            "type": "film",
+            "label": "FILME DE CASAMENTO",
+            "meta": "2:25",
+            "location": "Praia do Félix, Ubatuba — SP",
+            "img": "jiIHNkxZEgQ",
+            "desc": "A história de Fernando & Isabelle, em Praia do Félix, Ubatuba — SP. Um filme de Nicolas Paschoal.",
+            "eps": [
+              {
+                "video": "jiIHNkxZEgQ",
+                "title": "Highlights",
+                "duration": "2:25"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/jiIHNkxZEgQ/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "tati-max",
+            "couple": "Tati & Max",
+            "title": "Tati & Max",
+            "type": "film",
+            "label": "FILME DE CASAMENTO",
+            "meta": "24 min",
+            "location": "Brasil e Alemanha",
+            "img": "1iuiEvEjMEc",
+            "desc": "A história de Tati & Max. Um filme de Nicolas Paschoal.",
+            "eps": [
+              {
+                "video": "1iuiEvEjMEc",
+                "title": "Amor sem fronteiras",
+                "duration": "24 min"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/1iuiEvEjMEc/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "amanda-claick",
+            "couple": "Amanda & Claick",
+            "title": "Amanda & Claick",
+            "type": "film",
+            "label": "FILME DE CASAMENTO",
+            "meta": "27 min",
+            "location": "",
+            "img": "hBs-qsXK1D0",
+            "desc": "A história de Amanda & Claick. Um filme de Nicolas Paschoal.",
+            "eps": [
+              {
+                "video": "hBs-qsXK1D0",
+                "title": "Amor com nariz vermelho",
+                "duration": "27 min"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/hBs-qsXK1D0/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "andressa-edwin",
+            "couple": "Andressa & Edwin",
+            "title": "Andressa & Edwin",
+            "type": "film",
+            "label": "FILME DE CASAMENTO",
+            "meta": "1:40",
+            "location": "",
+            "img": "xMxtnLPh6LA",
+            "desc": "A história de Andressa & Edwin. Um filme de Nicolas Paschoal.",
+            "eps": [
+              {
+                "video": "xMxtnLPh6LA",
+                "title": "Highlights · 12 de abril de 2026",
+                "duration": "1:40"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/xMxtnLPh6LA/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "bea-renan",
+            "couple": "Bea & Renan",
+            "title": "Bea & Renan",
+            "type": "film",
+            "label": "FILME DE CASAMENTO",
+            "meta": "2:41",
+            "location": "",
+            "img": "g3vMBGJRgnc",
+            "desc": "A história de Bea & Renan. Um filme de Nicolas Paschoal.",
+            "eps": [
+              {
+                "video": "g3vMBGJRgnc",
+                "title": "Bea e Renan",
+                "duration": "2:41"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/g3vMBGJRgnc/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "camila-gabriel",
+            "couple": "Camila & Gabriel",
+            "title": "Camila & Gabriel",
+            "type": "film",
+            "label": "FILME DE CASAMENTO",
+            "meta": "2:39",
+            "location": "",
+            "img": "gk5ujv_AWZ8",
+            "desc": "A história de Camila & Gabriel. Um filme de Nicolas Paschoal.",
+            "eps": [
+              {
+                "video": "gk5ujv_AWZ8",
+                "title": "Highlights",
+                "duration": "2:39"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/gk5ujv_AWZ8/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "allendri-macos-vinicius",
+            "couple": "Allendri & Macos Vinicius",
+            "title": "Allendri & Macos Vinicius",
+            "type": "film",
+            "label": "FILME DE CASAMENTO",
+            "meta": "10:25",
+            "location": "",
+            "img": "Ztdi6AhgC78",
+            "desc": "A história de Allendri & Macos Vinicius. Um filme de Nicolas Paschoal.",
+            "eps": [
+              {
+                "video": "Ztdi6AhgC78",
+                "title": "A história de Allendri e Macos Vinicius",
+                "duration": "10:25"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/Ztdi6AhgC78/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "danilo-michele",
+            "couple": "Danilo & Michele",
+            "title": "Danilo & Michele",
+            "type": "film",
+            "label": "FILME DE CASAMENTO",
+            "meta": "17 min",
+            "location": "",
+            "img": "doe6Nbp8-jQ",
+            "desc": "A história de Danilo & Michele. Um filme de Nicolas Paschoal.",
+            "eps": [
+              {
+                "video": "doe6Nbp8-jQ",
+                "title": "O casamento de Danilo e Michele",
+                "duration": "17 min"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/doe6Nbp8-jQ/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "natalia-lucas",
+            "couple": "Natalia & Lucas",
+            "title": "Natalia & Lucas",
+            "type": "film",
+            "label": "FILME DE CASAMENTO",
+            "meta": "11:29",
+            "location": "",
+            "img": "WqvjVOenxAQ",
+            "desc": "A história de Natalia & Lucas. Um filme de Nicolas Paschoal.",
+            "eps": [
+              {
+                "video": "WqvjVOenxAQ",
+                "title": "O casamento de Natalia e Lucas",
+                "duration": "11:29"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/WqvjVOenxAQ/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "clara-caique",
+            "couple": "Clara & Caique",
+            "title": "Clara & Caique",
+            "type": "film",
+            "label": "FILME DE CASAMENTO",
+            "meta": "18 min",
+            "location": "",
+            "img": "X9wR_HxZkNI",
+            "desc": "A história de Clara & Caique. Um filme de Nicolas Paschoal.",
+            "eps": [
+              {
+                "video": "X9wR_HxZkNI",
+                "title": "Celebrando o amor",
+                "duration": "18 min"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/X9wR_HxZkNI/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "jack-lucas",
+            "couple": "Jack & Lucas",
+            "title": "Jack & Lucas",
+            "type": "film",
+            "label": "FILME DE CASAMENTO",
+            "meta": "7:44",
+            "location": "",
+            "img": "Q9FtAyT9s8I",
+            "desc": "A história de Jack & Lucas. Um filme de Nicolas Paschoal.",
+            "eps": [
+              {
+                "video": "Q9FtAyT9s8I",
+                "title": "O casamento de Jack e Lucas",
+                "duration": "7:44"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/Q9FtAyT9s8I/hqdefault.jpg",
+            "visible": true
+          }
+        ],
+        "settings": {
+          "whatsapp": "5512988274244",
+          "background": "#101110",
+          "text": "#eae7df",
+          "accent": "#d3ff7a"
+        }
+      }
+    },
+    {
+      "id": "355bb135-5b47-4d84-a42a-52718b57757b",
+      "date": "2026-10-22T17:58:41.479Z",
+      "content": {
+        "fields": {
+          "home_0": "Nicolas Paschoal — Cinema documental",
+          "home_1": "#",
+          "home_2": "Nicolas Paschoal",
+          "home_3": "Cinema documental",
+          "home_4": "#filmes",
+          "home_5": "Os filmes",
+          "home_6": "#olhar",
+          "home_7": "Nosso olhar",
+          "home_8": "/investimento/",
+          "home_9": "Investimento",
+          "home_10": "#contato",
+          "home_11": "Vamos conversar",
+          "home_12": "↗",
+          "home_13": "/media/efaad256-905a-4a28-a683-404e1b18a142.jpg",
+          "home_14": "Nicolas Paschoal · Filmes de casamento",
+          "home_15": "A vida acontece.",
+          "home_16": "O cinema",
+          "home_17": "permanece.",
+          "home_18": "Histórias reais. Pessoas inteiras.",
+          "home_19": "Um olhar documental sobre o que fica.",
+          "home_20": "Explore os filmes",
+          "home_21": "HISTÓRIAS REAIS, CONTADAS DE DENTRO",
+          "home_22": "CINEMA DOCUMENTAL DE CASAMENTO",
+          "home_23": "AFETO",
+          "home_24": "/",
+          "home_25": "MEMÓRIA",
+          "home_26": "PRESENÇA",
+          "home_27": "UM FILME. A SUA HISTÓRIA.",
+          "home_28": "O acervo",
+          "home_29": "Cada história, um universo.",
+          "home_30": "Todos os filmes",
+          "home_31": "Filmes",
+          "home_32": "Séries",
+          "home_33": "16 histórias · 21 filmes e capítulos · Nicolas Paschoal",
+          "home_34": "O extraordinário está",
+          "home_35": "no que é",
+          "home_36": "verdadeiro.",
+          "home_37": "A voz que falha. O abraço que demora. Uma conversa que ninguém planejou. É nesses encontros que buscamos a história de um casamento: nas pessoas e no que acontece entre elas.",
+          "home_38": "Sou Nicolas Paschoal. Nasci em Ubatuba e cresci com os registros que meus pais e avós faziam da nossa família. Foi dessa relação com a memória que nasceu meu desejo de contar histórias através da imagem.",
+          "home_39": "Hoje, busco preservar os olhares, os gestos, as vozes e os abraços que fazem cada história ser única.",
+          "home_40": "O próximo filme",
+          "home_41": "Começa com",
+          "home_42": "a sua história.",
+          "home_43": "Fale com Nicolas",
+          "home_44": "©",
+          "home_45": "Nicolas Paschoal",
+          "home_46": "Cinema documental de casamento",
+          "home_47": "Voltar ao início ↑",
+          "home_48": "×",
+          "investment_49": "Investimento — Nicolas Paschoal",
+          "investment_50": "/",
+          "investment_51": "Nicolas Paschoal",
+          "investment_52": "Cinema documental",
+          "investment_53": "/#filmes",
+          "investment_54": "Os filmes",
+          "investment_55": "/#olhar",
+          "investment_56": "Nosso olhar",
+          "investment_57": "/investimento/",
+          "investment_58": "Investimento",
+          "investment_59": "#proposta",
+          "investment_60": "Vamos conversar",
+          "investment_61": "↗",
+          "investment_62": "Investimento · Filmes de casamento",
+          "investment_63": "Uma história sua.",
+          "investment_64": "Um filme para",
+          "investment_65": "a vida inteira.",
+          "investment_66": "Cada casamento tem seu próprio ritmo, suas pessoas e suas memórias. Escolham a experiência que faz sentido para vocês — ou construam comigo uma proposta personalizada.",
+          "investment_67": "#experiencias",
+          "investment_68": "Conheça as experiências",
+          "investment_69": "↓",
+          "investment_70": "https://i.ytimg.com/vi/6M464Hbf95U/maxresdefault.jpg",
+          "investment_71": "TRÊS FORMAS DE PRESERVAR A SUA HISTÓRIA",
+          "investment_72": "ESSENCIAL",
+          "investment_73": "/",
+          "investment_74": "AUTORAL",
+          "investment_75": "ÍNTEGRA",
+          "investment_76": "UM OLHAR. DIFERENTES POSSIBILIDADES.",
+          "investment_77": "As experiências",
+          "investment_78": "O que vocês querem guardar?",
+          "investment_79": "Dos momentos essenciais à construção de uma narrativa documental sobre vocês.",
+          "investment_80": "01 / ESSENCIAL",
+          "investment_81": "Essencial",
+          "investment_82": "Os momentos do casamento reunidos em um filme para voltar a sentir aquele dia.",
+          "investment_83": "Investimento a partir de",
+          "investment_84": "R$ 6.200",
+          "investment_85": "à vista",
+          "investment_86": "ou R$ 7.000 em até 8x",
+          "investment_87": "A cobertura",
+          "investment_88": "8 horas de cobertura",
+          "investment_89": "Making of dos noivos, cerimônia, recepção e festa",
+          "investment_90": "2 filmmakers + drone",
+          "investment_91": "Highlights de até 2 minutos",
+          "investment_92": "Teaser com média de 7 minutos, com melhores momentos e votos dos noivos",
+          "investment_93": "Entrega em até 45 dias úteis após o casamento.",
+          "investment_94": "Conversar sobre o Essencial",
+          "investment_95": "02 / AUTORAL",
+          "investment_96": "O OLHAR DOCUMENTAL",
+          "investment_97": "Autoral",
+          "investment_98": "O casamento contado através da história de vocês. Um filme que começa antes do grande dia.",
+          "investment_99": "R$ 15.000",
+          "investment_100": "ou R$ 16.900 em até 8x",
+          "investment_101": "A construção da história",
+          "investment_102": "Entrevistas com o casal e familiares",
+          "investment_103": "Fotos, vídeos caseiros e memórias da infância",
+          "investment_104": "Ensaio de pré-wedding",
+          "investment_105": "Making of, cerimônia, recepção e festa",
+          "investment_106": "3 filmmakers + drone",
+          "investment_107": "Teaser com média de 20 minutos, com melhores momentos e votos dos noivos",
+          "investment_108": "Entrega em até 60 dias úteis após o casamento.",
+          "investment_109": "Construir nosso filme",
+          "investment_110": "03 / ÍNTEGRA",
+          "investment_111": "Íntegra",
+          "investment_112": "Do making of à celebração da festa, com a cerimônia preservada na íntegra.",
+          "investment_113": "R$ 14.000",
+          "investment_114": "ou R$ 15.000 em até 12x",
+          "investment_115": "Making of dos noivos",
+          "investment_116": "Cerimônia na íntegra: entradas, votos e discursos",
+          "investment_117": "Recepção e melhores momentos da festa",
+          "investment_118": "4 filmmakers + drone",
+          "investment_119": "Vídeo na íntegra, com duração de acordo com o evento",
+          "investment_120": "Highlights de até 1 minuto",
+          "investment_121": "Conversar sobre o Íntegra",
+          "investment_122": "Os valores são iniciais. Para uma cobertura personalizada, conversamos sobre equipe, duração, narrativa e entregas.",
+          "investment_123": "Dentro da experiência Autoral",
+          "investment_124": "A história começa",
+          "investment_125": "antes do",
+          "investment_126": "sim.",
+          "investment_127": "O dia do casamento é parte de uma história maior. No Autoral, abrimos espaço para as vozes e as memórias que trouxeram vocês até aqui.",
+          "investment_128": "01",
+          "investment_129": "Escutar quem vocês são",
+          "investment_130": "Entrevistas com o casal e familiares para conhecer a história e as pessoas que fazem parte dela.",
+          "investment_131": "02",
+          "investment_132": "Revisitar as memórias",
+          "investment_133": "Fotos da infância, vídeos caseiros e registros pessoais ajudam a compor a narrativa, junto ao ensaio de pré-wedding.",
+          "investment_134": "03",
+          "investment_135": "Documentar o encontro",
+          "investment_136": "Do making of à festa, o casamento ganha seu lugar dentro dessa história, com os melhores momentos e os votos de vocês.",
+          "investment_137": "Lado a lado",
+          "investment_138": "Encontrem a sua experiência.",
+          "investment_139": "O que está incluído",
+          "investment_140": "Equipe",
+          "investment_141": "Construção antes do casamento",
+          "investment_142": "—",
+          "investment_143": "Entrevistas, memórias e pré-wedding",
+          "investment_144": "Vídeo principal",
+          "investment_145": "Teaser · média de 7 min",
+          "investment_146": "Teaser · média de 20 min",
+          "investment_147": "Íntegra · duração conforme o evento",
+          "investment_148": "Highlights",
+          "investment_149": "Até 2 min",
+          "investment_150": "Até 1 min",
+          "investment_151": "Prazo após o casamento",
+          "investment_152": "Até 45 dias úteis",
+          "investment_153": "Até 60 dias úteis",
+          "investment_154": "A partir de, à vista",
+          "investment_155": "A partir de, parcelado",
+          "investment_156": "R$ 7.000 em até 8x",
+          "investment_157": "R$ 16.900 em até 8x",
+          "investment_158": "R$ 15.000 em até 12x",
+          "investment_159": "Antes de conversar",
+          "investment_160": "Algumas respostas",
+          "investment_161": "para começar.",
+          "investment_162": "Posso personalizar a cobertura?",
+          "investment_163": "Sim. Podemos adaptar equipe, duração, quantidade de câmeras, cobertura, narrativa e entregas ao que faz sentido para o casamento de vocês.",
+          "investment_164": "Qual experiência inclui pré-wedding e entrevistas?",
+          "investment_165": "A experiência Autoral inclui ensaio de pré-wedding, entrevistas com o casal e familiares e a busca por fotos e vídeos pessoais para construir a narrativa.",
+          "investment_166": "Em quanto tempo recebemos os filmes?",
+          "investment_167": "Essencial e Íntegra têm prazo de até 45 dias úteis após o casamento. No Autoral, o prazo é de até 60 dias úteis.",
+          "investment_168": "Onde podemos conhecer os filmes?",
+          "investment_169": "Explore",
+          "investment_170": "o acervo de casamentos",
+          "investment_171": ". Cada história tem sua própria página, com os filmes e capítulos disponíveis para assistir.",
+          "investment_172": "Uma proposta para vocês",
+          "investment_173": "E se a sua história",
+          "investment_174": "pedir",
+          "investment_175": "outro caminho?",
+          "investment_176": "Contem a data, o lugar e o que vocês imaginam para o casamento. Vamos conversar sobre a melhor forma de documentar tudo isso.",
+          "investment_177": "Por onde vocês gostariam de começar?",
+          "investment_178": "Uma proposta personalizada",
+          "investment_179": "Experiência Essencial",
+          "investment_180": "Experiência Autoral",
+          "investment_181": "Experiência Íntegra",
+          "investment_182": "Conversar com Nicolas",
+          "investment_183": "Vamos continuar a conversa pelo WhatsApp.",
+          "investment_184": "© Nicolas Paschoal · Cinema documental",
+          "investment_185": "Conheça os filmes ↗",
+          "investment_186": "#",
+          "investment_187": "Voltar ao início ↑"
+        },
+        "films": [
+          {
+            "id": "gabi-jeremy",
+            "couple": "Gabi & Jeremy",
+            "title": "Gabi & Jeremy",
+            "type": "series",
+            "label": "UMA HISTÓRIA EM CAPÍTULOS",
+            "meta": "2 capítulos",
+            "location": "Paraty — RJ",
+            "img": "UxSlGfBtUzs",
+            "desc": "A história de Gabi & Jeremy, em Paraty — RJ. O filme e os outros capítulos deste casamento, reunidos em um só lugar.",
+            "eps": [
+              {
+                "video": "UxSlGfBtUzs",
+                "title": "Filme de casamento",
+                "duration": "31 min"
+              },
+              {
+                "video": "xNsodEBZgs8",
+                "title": "Highlights",
+                "duration": "2:23"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/UxSlGfBtUzs/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "helena-lucas",
+            "couple": "Helena & Lucas",
+            "title": "Helena & Lucas",
+            "type": "series",
+            "label": "UMA HISTÓRIA EM CAPÍTULOS",
+            "meta": "2 capítulos",
+            "location": "",
+            "img": "gqn8v9spSck",
+            "desc": "A história de Helena & Lucas. O filme e os outros capítulos deste casamento, reunidos em um só lugar.",
+            "eps": [
+              {
+                "video": "gqn8v9spSck",
+                "title": "A Wedding Film",
+                "duration": "12:39"
+              },
+              {
+                "video": "BetO1PCe5SE",
+                "title": "Highlights",
+                "duration": "2:01"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/gqn8v9spSck/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "jamili-cristian",
+            "couple": "Jamili & Cristian",
+            "title": "Jamili & Cristian",
+            "type": "series",
+            "label": "UMA HISTÓRIA EM CAPÍTULOS",
+            "meta": "2 capítulos",
+            "location": "Itamambuca, Ubatuba — SP",
+            "img": "6M464Hbf95U",
+            "desc": "A história de Jamili & Cristian, em Itamambuca, Ubatuba — SP. O filme e os outros capítulos deste casamento, reunidos em um só lugar.",
+            "eps": [
+              {
+                "video": "6M464Hbf95U",
+                "title": "Filme de casamento",
+                "duration": "19 min"
+              },
+              {
+                "video": "uNtFCJna2h4",
+                "title": "Highlights",
+                "duration": "1:22"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/6M464Hbf95U/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "mari-caique",
+            "couple": "Mari & Caique",
+            "title": "Mari & Caique",
+            "type": "series",
+            "label": "UMA HISTÓRIA EM CAPÍTULOS",
+            "meta": "2 capítulos",
+            "location": "",
+            "img": "Q9uvhQamTLQ",
+            "desc": "A história de Mari & Caique. O filme e os outros capítulos deste casamento, reunidos em um só lugar.",
+            "eps": [
+              {
+                "video": "Q9uvhQamTLQ",
+                "title": "Mari e Caique",
+                "duration": "2:10"
+              },
+              {
+                "video": "7Rdvm0Hix-0",
+                "title": "Wedding Highlights",
+                "duration": "1:34"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/Q9uvhQamTLQ/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "isabela-luiz",
+            "couple": "Isabela & Luiz",
+            "title": "Isabela & Luiz",
+            "type": "series",
+            "label": "UMA HISTÓRIA EM CAPÍTULOS",
+            "meta": "2 capítulos",
+            "location": "",
+            "img": "0aUHgUxuMhI",
+            "desc": "A história de Isabela & Luiz. O filme e os outros capítulos deste casamento, reunidos em um só lugar.",
+            "eps": [
+              {
+                "video": "0aUHgUxuMhI",
+                "title": "Pré-wedding · Vila Bosque Bambu, Jarinu",
+                "duration": "2:09"
+              },
+              {
+                "video": "mwoEW9bFv7k",
+                "title": "Highlights",
+                "duration": "1:42"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/0aUHgUxuMhI/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "fernando-isabelle",
+            "couple": "Fernando & Isabelle",
+            "title": "Fernando & Isabelle",
+            "type": "film",
+            "label": "FILME DE CASAMENTO",
+            "meta": "2:25",
+            "location": "Praia do Félix, Ubatuba — SP",
+            "img": "jiIHNkxZEgQ",
+            "desc": "A história de Fernando & Isabelle, em Praia do Félix, Ubatuba — SP. Um filme de Nicolas Paschoal.",
+            "eps": [
+              {
+                "video": "jiIHNkxZEgQ",
+                "title": "Highlights",
+                "duration": "2:25"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/jiIHNkxZEgQ/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "tati-max",
+            "couple": "Tati & Max",
+            "title": "Tati & Max",
+            "type": "film",
+            "label": "FILME DE CASAMENTO",
+            "meta": "24 min",
+            "location": "Brasil e Alemanha",
+            "img": "1iuiEvEjMEc",
+            "desc": "A história de Tati & Max. Um filme de Nicolas Paschoal.",
+            "eps": [
+              {
+                "video": "1iuiEvEjMEc",
+                "title": "Amor sem fronteiras",
+                "duration": "24 min"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/1iuiEvEjMEc/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "amanda-claick",
+            "couple": "Amanda & Claick",
+            "title": "Amanda & Claick",
+            "type": "film",
+            "label": "FILME DE CASAMENTO",
+            "meta": "27 min",
+            "location": "",
+            "img": "hBs-qsXK1D0",
+            "desc": "A história de Amanda & Claick. Um filme de Nicolas Paschoal.",
+            "eps": [
+              {
+                "video": "hBs-qsXK1D0",
+                "title": "Amor com nariz vermelho",
+                "duration": "27 min"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/hBs-qsXK1D0/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "andressa-edwin",
+            "couple": "Andressa & Edwin",
+            "title": "Andressa & Edwin",
+            "type": "film",
+            "label": "FILME DE CASAMENTO",
+            "meta": "1:40",
+            "location": "",
+            "img": "xMxtnLPh6LA",
+            "desc": "A história de Andressa & Edwin. Um filme de Nicolas Paschoal.",
+            "eps": [
+              {
+                "video": "xMxtnLPh6LA",
+                "title": "Highlights · 12 de abril de 2026",
+                "duration": "1:40"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/xMxtnLPh6LA/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "bea-renan",
+            "couple": "Bea & Renan",
+            "title": "Bea & Renan",
+            "type": "film",
+            "label": "FILME DE CASAMENTO",
+            "meta": "2:41",
+            "location": "",
+            "img": "g3vMBGJRgnc",
+            "desc": "A história de Bea & Renan. Um filme de Nicolas Paschoal.",
+            "eps": [
+              {
+                "video": "g3vMBGJRgnc",
+                "title": "Bea e Renan",
+                "duration": "2:41"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/g3vMBGJRgnc/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "camila-gabriel",
+            "couple": "Camila & Gabriel",
+            "title": "Camila & Gabriel",
+            "type": "film",
+            "label": "FILME DE CASAMENTO",
+            "meta": "2:39",
+            "location": "",
+            "img": "gk5ujv_AWZ8",
+            "desc": "A história de Camila & Gabriel. Um filme de Nicolas Paschoal.",
+            "eps": [
+              {
+                "video": "gk5ujv_AWZ8",
+                "title": "Highlights",
+                "duration": "2:39"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/gk5ujv_AWZ8/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "allendri-macos-vinicius",
+            "couple": "Allendri & Macos Vinicius",
+            "title": "Allendri & Macos Vinicius",
+            "type": "film",
+            "label": "FILME DE CASAMENTO",
+            "meta": "10:25",
+            "location": "",
+            "img": "Ztdi6AhgC78",
+            "desc": "A história de Allendri & Macos Vinicius. Um filme de Nicolas Paschoal.",
+            "eps": [
+              {
+                "video": "Ztdi6AhgC78",
+                "title": "A história de Allendri e Macos Vinicius",
+                "duration": "10:25"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/Ztdi6AhgC78/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "danilo-michele",
+            "couple": "Danilo & Michele",
+            "title": "Danilo & Michele",
+            "type": "film",
+            "label": "FILME DE CASAMENTO",
+            "meta": "17 min",
+            "location": "",
+            "img": "doe6Nbp8-jQ",
+            "desc": "A história de Danilo & Michele. Um filme de Nicolas Paschoal.",
+            "eps": [
+              {
+                "video": "doe6Nbp8-jQ",
+                "title": "O casamento de Danilo e Michele",
+                "duration": "17 min"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/doe6Nbp8-jQ/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "natalia-lucas",
+            "couple": "Natalia & Lucas",
+            "title": "Natalia & Lucas",
+            "type": "film",
+            "label": "FILME DE CASAMENTO",
+            "meta": "11:29",
+            "location": "",
+            "img": "WqvjVOenxAQ",
+            "desc": "A história de Natalia & Lucas. Um filme de Nicolas Paschoal.",
+            "eps": [
+              {
+                "video": "WqvjVOenxAQ",
+                "title": "O casamento de Natalia e Lucas",
+                "duration": "11:29"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/WqvjVOenxAQ/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "clara-caique",
+            "couple": "Clara & Caique",
+            "title": "Clara & Caique",
+            "type": "film",
+            "label": "FILME DE CASAMENTO",
+            "meta": "18 min",
+            "location": "",
+            "img": "X9wR_HxZkNI",
+            "desc": "A história de Clara & Caique. Um filme de Nicolas Paschoal.",
+            "eps": [
+              {
+                "video": "X9wR_HxZkNI",
+                "title": "Celebrando o amor",
+                "duration": "18 min"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/X9wR_HxZkNI/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "jack-lucas",
+            "couple": "Jack & Lucas",
+            "title": "Jack & Lucas",
+            "type": "film",
+            "label": "FILME DE CASAMENTO",
+            "meta": "7:44",
+            "location": "",
+            "img": "Q9FtAyT9s8I",
+            "desc": "A história de Jack & Lucas. Um filme de Nicolas Paschoal.",
+            "eps": [
+              {
+                "video": "Q9FtAyT9s8I",
+                "title": "O casamento de Jack e Lucas",
+                "duration": "7:44"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/Q9FtAyT9s8I/hqdefault.jpg",
+            "visible": true
+          }
+        ],
+        "settings": {
+          "whatsapp": "5512988274244",
+          "background": "#101110",
+          "text": "#eae7df",
+          "accent": "#d3ff7a"
+        }
+      }
+    },
+    {
+      "id": "fee9603f-601f-4277-8983-a3df34d8327f",
+      "date": "2026-10-22T17:56:53.667Z",
+      "content": {
+        "fields": {
+          "home_0": "Nicolas Paschoal — Cinema documental",
+          "home_1": "#",
+          "home_2": "Nicolas Paschoal",
+          "home_3": "Cinema documental",
+          "home_4": "#filmes",
+          "home_5": "Os filmes",
+          "home_6": "#olhar",
+          "home_7": "Nosso olhar",
+          "home_8": "/investimento/",
+          "home_9": "Investimento",
+          "home_10": "#contato",
+          "home_11": "Vamos conversar",
+          "home_12": "↗",
+          "home_13": "/media/efaad256-905a-4a28-a683-404e1b18a142.jpg",
+          "home_14": "Nicolas Paschoal · Filmes de casamento",
+          "home_15": "A vida acontece.",
+          "home_16": "O cinema",
+          "home_17": "permanece.",
+          "home_18": "Histórias reais. Pessoas inteiras.",
+          "home_19": "Um olhar documental sobre o que fica.",
+          "home_20": "Explore os filmes",
+          "home_21": "HISTÓRIAS REAIS, CONTADAS DE DENTRO",
+          "home_22": "CINEMA DOCUMENTAL DE CASAMENTO",
+          "home_23": "AFETO",
+          "home_24": "/",
+          "home_25": "MEMÓRIA",
+          "home_26": "PRESENÇA",
+          "home_27": "UM FILME. A SUA HISTÓRIA.",
+          "home_28": "O acervo",
+          "home_29": "Cada história, um universo.",
+          "home_30": "Todos os filmes",
+          "home_31": "Filmes",
+          "home_32": "Séries",
+          "home_33": "16 histórias · 21 filmes e capítulos · Nicolas Paschoal",
+          "home_34": "O extraordinário está",
+          "home_35": "no que é",
+          "home_36": "verdadeiro.",
+          "home_37": "A voz que falha. O abraço que demora. Uma conversa que ninguém planejou. É nesses encontros que buscamos a história de um casamento: nas pessoas e no que acontece entre elas.",
+          "home_38": "Sou Nicolas Paschoal. Nasci em Ubatuba e cresci com os registros que meus pais e avós faziam da nossa família. Foi dessa relação com a memória que nasceu meu desejo de contar histórias através da imagem.",
+          "home_39": "Hoje, busco preservar os olhares, os gestos, as vozes e os abraços que fazem cada história ser única.",
+          "home_40": "O próximo filme",
+          "home_41": "Começa com",
+          "home_42": "a sua história.",
+          "home_43": "Fale com Nicolas",
+          "home_44": "©",
+          "home_45": "Nicolas Paschoal",
+          "home_46": "Cinema documental de casamento",
+          "home_47": "Voltar ao início ↑",
+          "home_48": "×",
+          "investment_49": "Investimento — Nicolas Paschoal",
+          "investment_50": "/",
+          "investment_51": "nicolas paschoal",
+          "investment_52": "Cinema documental",
+          "investment_53": "/#filmes",
+          "investment_54": "Os filmes",
+          "investment_55": "/#olhar",
+          "investment_56": "Nosso olhar",
+          "investment_57": "/investimento/",
+          "investment_58": "Investimento",
+          "investment_59": "#proposta",
+          "investment_60": "Vamos conversar",
+          "investment_61": "↗",
+          "investment_62": "Investimento · Filmes de casamento",
+          "investment_63": "Uma história sua.",
+          "investment_64": "Um filme para",
+          "investment_65": "a vida inteira.",
+          "investment_66": "Cada casamento tem seu próprio ritmo, suas pessoas e suas memórias. Escolham a experiência que faz sentido para vocês — ou construam comigo uma proposta personalizada.",
+          "investment_67": "#experiencias",
+          "investment_68": "Conheça as experiências",
+          "investment_69": "↓",
+          "investment_70": "https://i.ytimg.com/vi/6M464Hbf95U/maxresdefault.jpg",
+          "investment_71": "TRÊS FORMAS DE PRESERVAR A SUA HISTÓRIA",
+          "investment_72": "ESSENCIAL",
+          "investment_73": "/",
+          "investment_74": "AUTORAL",
+          "investment_75": "ÍNTEGRA",
+          "investment_76": "UM OLHAR. DIFERENTES POSSIBILIDADES.",
+          "investment_77": "As experiências",
+          "investment_78": "O que vocês querem guardar?",
+          "investment_79": "Dos momentos essenciais à construção de uma narrativa documental sobre vocês.",
+          "investment_80": "01 / ESSENCIAL",
+          "investment_81": "Essencial",
+          "investment_82": "Os momentos do casamento reunidos em um filme para voltar a sentir aquele dia.",
+          "investment_83": "Investimento a partir de",
+          "investment_84": "R$ 6.200",
+          "investment_85": "à vista",
+          "investment_86": "ou R$ 7.000 em até 8x",
+          "investment_87": "A cobertura",
+          "investment_88": "8 horas de cobertura",
+          "investment_89": "Making of dos noivos, cerimônia, recepção e festa",
+          "investment_90": "2 filmmakers + drone",
+          "investment_91": "Highlights de até 2 minutos",
+          "investment_92": "Teaser com média de 7 minutos, com melhores momentos e votos dos noivos",
+          "investment_93": "Entrega em até 45 dias úteis após o casamento.",
+          "investment_94": "Conversar sobre o Essencial",
+          "investment_95": "02 / AUTORAL",
+          "investment_96": "O OLHAR DOCUMENTAL",
+          "investment_97": "Autoral",
+          "investment_98": "O casamento contado através da história de vocês. Um filme que começa antes do grande dia.",
+          "investment_99": "R$ 15.000",
+          "investment_100": "ou R$ 16.900 em até 8x",
+          "investment_101": "A construção da história",
+          "investment_102": "Entrevistas com o casal e familiares",
+          "investment_103": "Fotos, vídeos caseiros e memórias da infância",
+          "investment_104": "Ensaio de pré-wedding",
+          "investment_105": "Making of, cerimônia, recepção e festa",
+          "investment_106": "3 filmmakers + drone",
+          "investment_107": "Teaser com média de 20 minutos, com melhores momentos e votos dos noivos",
+          "investment_108": "Entrega em até 60 dias úteis após o casamento.",
+          "investment_109": "Construir nosso filme",
+          "investment_110": "03 / ÍNTEGRA",
+          "investment_111": "Íntegra",
+          "investment_112": "Do making of à celebração da festa, com a cerimônia preservada na íntegra.",
+          "investment_113": "R$ 14.000",
+          "investment_114": "ou R$ 15.000 em até 12x",
+          "investment_115": "Making of dos noivos",
+          "investment_116": "Cerimônia na íntegra: entradas, votos e discursos",
+          "investment_117": "Recepção e melhores momentos da festa",
+          "investment_118": "4 filmmakers + drone",
+          "investment_119": "Vídeo na íntegra, com duração de acordo com o evento",
+          "investment_120": "Highlights de até 1 minuto",
+          "investment_121": "Conversar sobre o Íntegra",
+          "investment_122": "Os valores são iniciais. Para uma cobertura personalizada, conversamos sobre equipe, duração, narrativa e entregas.",
+          "investment_123": "Dentro da experiência Autoral",
+          "investment_124": "A história começa",
+          "investment_125": "antes do",
+          "investment_126": "sim.",
+          "investment_127": "O dia do casamento é parte de uma história maior. No Autoral, abrimos espaço para as vozes e as memórias que trouxeram vocês até aqui.",
+          "investment_128": "01",
+          "investment_129": "Escutar quem vocês são",
+          "investment_130": "Entrevistas com o casal e familiares para conhecer a história e as pessoas que fazem parte dela.",
+          "investment_131": "02",
+          "investment_132": "Revisitar as memórias",
+          "investment_133": "Fotos da infância, vídeos caseiros e registros pessoais ajudam a compor a narrativa, junto ao ensaio de pré-wedding.",
+          "investment_134": "03",
+          "investment_135": "Documentar o encontro",
+          "investment_136": "Do making of à festa, o casamento ganha seu lugar dentro dessa história, com os melhores momentos e os votos de vocês.",
+          "investment_137": "Lado a lado",
+          "investment_138": "Encontrem a sua experiência.",
+          "investment_139": "O que está incluído",
+          "investment_140": "Equipe",
+          "investment_141": "Construção antes do casamento",
+          "investment_142": "—",
+          "investment_143": "Entrevistas, memórias e pré-wedding",
+          "investment_144": "Vídeo principal",
+          "investment_145": "Teaser · média de 7 min",
+          "investment_146": "Teaser · média de 20 min",
+          "investment_147": "Íntegra · duração conforme o evento",
+          "investment_148": "Highlights",
+          "investment_149": "Até 2 min",
+          "investment_150": "Até 1 min",
+          "investment_151": "Prazo após o casamento",
+          "investment_152": "Até 45 dias úteis",
+          "investment_153": "Até 60 dias úteis",
+          "investment_154": "A partir de, à vista",
+          "investment_155": "A partir de, parcelado",
+          "investment_156": "R$ 7.000 em até 8x",
+          "investment_157": "R$ 16.900 em até 8x",
+          "investment_158": "R$ 15.000 em até 12x",
+          "investment_159": "Antes de conversar",
+          "investment_160": "Algumas respostas",
+          "investment_161": "para começar.",
+          "investment_162": "Posso personalizar a cobertura?",
+          "investment_163": "Sim. Podemos adaptar equipe, duração, quantidade de câmeras, cobertura, narrativa e entregas ao que faz sentido para o casamento de vocês.",
+          "investment_164": "Qual experiência inclui pré-wedding e entrevistas?",
+          "investment_165": "A experiência Autoral inclui ensaio de pré-wedding, entrevistas com o casal e familiares e a busca por fotos e vídeos pessoais para construir a narrativa.",
+          "investment_166": "Em quanto tempo recebemos os filmes?",
+          "investment_167": "Essencial e Íntegra têm prazo de até 45 dias úteis após o casamento. No Autoral, o prazo é de até 60 dias úteis.",
+          "investment_168": "Onde podemos conhecer os filmes?",
+          "investment_169": "Explore",
+          "investment_170": "o acervo de casamentos",
+          "investment_171": ". Cada história tem sua própria página, com os filmes e capítulos disponíveis para assistir.",
+          "investment_172": "Uma proposta para vocês",
+          "investment_173": "E se a sua história",
+          "investment_174": "pedir",
+          "investment_175": "outro caminho?",
+          "investment_176": "Contem a data, o lugar e o que vocês imaginam para o casamento. Vamos conversar sobre a melhor forma de documentar tudo isso.",
+          "investment_177": "Por onde vocês gostariam de começar?",
+          "investment_178": "Uma proposta personalizada",
+          "investment_179": "Experiência Essencial",
+          "investment_180": "Experiência Autoral",
+          "investment_181": "Experiência Íntegra",
+          "investment_182": "Conversar com Nicolas",
+          "investment_183": "Vamos continuar a conversa pelo WhatsApp.",
+          "investment_184": "© Nicolas Paschoal · Cinema documental",
+          "investment_185": "Conheça os filmes ↗",
+          "investment_186": "#",
+          "investment_187": "Voltar ao início ↑"
+        },
+        "films": [
+          {
+            "id": "jamili-cristian",
+            "couple": "Jamili & Cristian",
+            "title": "Jamili & Cristian",
+            "type": "series",
+            "label": "UMA HISTÓRIA EM CAPÍTULOS",
+            "meta": "2 capítulos",
+            "location": "Itamambuca, Ubatuba — SP",
+            "img": "6M464Hbf95U",
+            "desc": "A história de Jamili & Cristian, em Itamambuca, Ubatuba — SP. O filme e os outros capítulos deste casamento, reunidos em um só lugar.",
+            "eps": [
+              {
+                "video": "6M464Hbf95U",
+                "title": "Filme de casamento",
+                "duration": "19 min"
+              },
+              {
+                "video": "uNtFCJna2h4",
+                "title": "Highlights",
+                "duration": "1:22"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/6M464Hbf95U/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "gabi-jeremy",
+            "couple": "Gabi & Jeremy",
+            "title": "Gabi & Jeremy",
+            "type": "series",
+            "label": "UMA HISTÓRIA EM CAPÍTULOS",
+            "meta": "2 capítulos",
+            "location": "Paraty — RJ",
+            "img": "UxSlGfBtUzs",
+            "desc": "A história de Gabi & Jeremy, em Paraty — RJ. O filme e os outros capítulos deste casamento, reunidos em um só lugar.",
+            "eps": [
+              {
+                "video": "UxSlGfBtUzs",
+                "title": "Filme de casamento",
+                "duration": "31 min"
+              },
+              {
+                "video": "xNsodEBZgs8",
+                "title": "Highlights",
+                "duration": "2:23"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/UxSlGfBtUzs/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "helena-lucas",
+            "couple": "Helena & Lucas",
+            "title": "Helena & Lucas",
+            "type": "series",
+            "label": "UMA HISTÓRIA EM CAPÍTULOS",
+            "meta": "2 capítulos",
+            "location": "",
+            "img": "gqn8v9spSck",
+            "desc": "A história de Helena & Lucas. O filme e os outros capítulos deste casamento, reunidos em um só lugar.",
+            "eps": [
+              {
+                "video": "gqn8v9spSck",
+                "title": "A Wedding Film",
+                "duration": "12:39"
+              },
+              {
+                "video": "BetO1PCe5SE",
+                "title": "Highlights",
+                "duration": "2:01"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/gqn8v9spSck/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "mari-caique",
+            "couple": "Mari & Caique",
+            "title": "Mari & Caique",
+            "type": "series",
+            "label": "UMA HISTÓRIA EM CAPÍTULOS",
+            "meta": "2 capítulos",
+            "location": "",
+            "img": "Q9uvhQamTLQ",
+            "desc": "A história de Mari & Caique. O filme e os outros capítulos deste casamento, reunidos em um só lugar.",
+            "eps": [
+              {
+                "video": "Q9uvhQamTLQ",
+                "title": "Mari e Caique",
+                "duration": "2:10"
+              },
+              {
+                "video": "7Rdvm0Hix-0",
+                "title": "Wedding Highlights",
+                "duration": "1:34"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/Q9uvhQamTLQ/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "isabela-luiz",
+            "couple": "Isabela & Luiz",
+            "title": "Isabela & Luiz",
+            "type": "series",
+            "label": "UMA HISTÓRIA EM CAPÍTULOS",
+            "meta": "2 capítulos",
+            "location": "",
+            "img": "0aUHgUxuMhI",
+            "desc": "A história de Isabela & Luiz. O filme e os outros capítulos deste casamento, reunidos em um só lugar.",
+            "eps": [
+              {
+                "video": "0aUHgUxuMhI",
+                "title": "Pré-wedding · Vila Bosque Bambu, Jarinu",
+                "duration": "2:09"
+              },
+              {
+                "video": "mwoEW9bFv7k",
+                "title": "Highlights",
+                "duration": "1:42"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/0aUHgUxuMhI/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "fernando-isabelle",
+            "couple": "Fernando & Isabelle",
+            "title": "Fernando & Isabelle",
+            "type": "film",
+            "label": "FILME DE CASAMENTO",
+            "meta": "2:25",
+            "location": "Praia do Félix, Ubatuba — SP",
+            "img": "jiIHNkxZEgQ",
+            "desc": "A história de Fernando & Isabelle, em Praia do Félix, Ubatuba — SP. Um filme de Nicolas Paschoal.",
+            "eps": [
+              {
+                "video": "jiIHNkxZEgQ",
+                "title": "Highlights",
+                "duration": "2:25"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/jiIHNkxZEgQ/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "tati-max",
+            "couple": "Tati & Max",
+            "title": "Tati & Max",
+            "type": "film",
+            "label": "FILME DE CASAMENTO",
+            "meta": "24 min",
+            "location": "Brasil e Alemanha",
+            "img": "1iuiEvEjMEc",
+            "desc": "A história de Tati & Max. Um filme de Nicolas Paschoal.",
+            "eps": [
+              {
+                "video": "1iuiEvEjMEc",
+                "title": "Amor sem fronteiras",
+                "duration": "24 min"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/1iuiEvEjMEc/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "amanda-claick",
+            "couple": "Amanda & Claick",
+            "title": "Amanda & Claick",
+            "type": "film",
+            "label": "FILME DE CASAMENTO",
+            "meta": "27 min",
+            "location": "",
+            "img": "hBs-qsXK1D0",
+            "desc": "A história de Amanda & Claick. Um filme de Nicolas Paschoal.",
+            "eps": [
+              {
+                "video": "hBs-qsXK1D0",
+                "title": "Amor com nariz vermelho",
+                "duration": "27 min"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/hBs-qsXK1D0/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "andressa-edwin",
+            "couple": "Andressa & Edwin",
+            "title": "Andressa & Edwin",
+            "type": "film",
+            "label": "FILME DE CASAMENTO",
+            "meta": "1:40",
+            "location": "",
+            "img": "xMxtnLPh6LA",
+            "desc": "A história de Andressa & Edwin. Um filme de Nicolas Paschoal.",
+            "eps": [
+              {
+                "video": "xMxtnLPh6LA",
+                "title": "Highlights · 12 de abril de 2026",
+                "duration": "1:40"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/xMxtnLPh6LA/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "bea-renan",
+            "couple": "Bea & Renan",
+            "title": "Bea & Renan",
+            "type": "film",
+            "label": "FILME DE CASAMENTO",
+            "meta": "2:41",
+            "location": "",
+            "img": "g3vMBGJRgnc",
+            "desc": "A história de Bea & Renan. Um filme de Nicolas Paschoal.",
+            "eps": [
+              {
+                "video": "g3vMBGJRgnc",
+                "title": "Bea e Renan",
+                "duration": "2:41"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/g3vMBGJRgnc/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "camila-gabriel",
+            "couple": "Camila & Gabriel",
+            "title": "Camila & Gabriel",
+            "type": "film",
+            "label": "FILME DE CASAMENTO",
+            "meta": "2:39",
+            "location": "",
+            "img": "gk5ujv_AWZ8",
+            "desc": "A história de Camila & Gabriel. Um filme de Nicolas Paschoal.",
+            "eps": [
+              {
+                "video": "gk5ujv_AWZ8",
+                "title": "Highlights",
+                "duration": "2:39"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/gk5ujv_AWZ8/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "allendri-macos-vinicius",
+            "couple": "Allendri & Macos Vinicius",
+            "title": "Allendri & Macos Vinicius",
+            "type": "film",
+            "label": "FILME DE CASAMENTO",
+            "meta": "10:25",
+            "location": "",
+            "img": "Ztdi6AhgC78",
+            "desc": "A história de Allendri & Macos Vinicius. Um filme de Nicolas Paschoal.",
+            "eps": [
+              {
+                "video": "Ztdi6AhgC78",
+                "title": "A história de Allendri e Macos Vinicius",
+                "duration": "10:25"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/Ztdi6AhgC78/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "danilo-michele",
+            "couple": "Danilo & Michele",
+            "title": "Danilo & Michele",
+            "type": "film",
+            "label": "FILME DE CASAMENTO",
+            "meta": "17 min",
+            "location": "",
+            "img": "doe6Nbp8-jQ",
+            "desc": "A história de Danilo & Michele. Um filme de Nicolas Paschoal.",
+            "eps": [
+              {
+                "video": "doe6Nbp8-jQ",
+                "title": "O casamento de Danilo e Michele",
+                "duration": "17 min"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/doe6Nbp8-jQ/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "natalia-lucas",
+            "couple": "Natalia & Lucas",
+            "title": "Natalia & Lucas",
+            "type": "film",
+            "label": "FILME DE CASAMENTO",
+            "meta": "11:29",
+            "location": "",
+            "img": "WqvjVOenxAQ",
+            "desc": "A história de Natalia & Lucas. Um filme de Nicolas Paschoal.",
+            "eps": [
+              {
+                "video": "WqvjVOenxAQ",
+                "title": "O casamento de Natalia e Lucas",
+                "duration": "11:29"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/WqvjVOenxAQ/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "clara-caique",
+            "couple": "Clara & Caique",
+            "title": "Clara & Caique",
+            "type": "film",
+            "label": "FILME DE CASAMENTO",
+            "meta": "18 min",
+            "location": "",
+            "img": "X9wR_HxZkNI",
+            "desc": "A história de Clara & Caique. Um filme de Nicolas Paschoal.",
+            "eps": [
+              {
+                "video": "X9wR_HxZkNI",
+                "title": "Celebrando o amor",
+                "duration": "18 min"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/X9wR_HxZkNI/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "jack-lucas",
+            "couple": "Jack & Lucas",
+            "title": "Jack & Lucas",
+            "type": "film",
+            "label": "FILME DE CASAMENTO",
+            "meta": "7:44",
+            "location": "",
+            "img": "Q9FtAyT9s8I",
+            "desc": "A história de Jack & Lucas. Um filme de Nicolas Paschoal.",
+            "eps": [
+              {
+                "video": "Q9FtAyT9s8I",
+                "title": "O casamento de Jack e Lucas",
+                "duration": "7:44"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/Q9FtAyT9s8I/hqdefault.jpg",
+            "visible": true
+          }
+        ],
+        "settings": {
+          "whatsapp": "5512988274244",
+          "background": "#101110",
+          "text": "#eae7df",
+          "accent": "#d3ff7a"
+        }
+      }
+    },
+    {
+      "id": "1e6a23c3-9502-4437-9610-047676b1971a",
+      "date": "2026-10-22T17:56:53.667Z",
+      "content": {
+        "fields": {
+          "home_0": "Nicolas Paschoal — Cinema documental",
+          "home_1": "#",
+          "home_2": "nicolas paschoal",
+          "home_3": "Cinema documental",
+          "home_4": "#filmes",
+          "home_5": "Os filmes",
+          "home_6": "#olhar",
+          "home_7": "Nosso olhar",
+          "home_8": "/investimento/",
+          "home_9": "Investimento",
+          "home_10": "#contato",
+          "home_11": "Vamos conversar",
+          "home_12": "↗",
+          "home_13": "https://i.ytimg.com/vi/6M464Hbf95U/maxresdefault.jpg",
+          "home_14": "Nicolas Paschoal · Filmes de casamento",
+          "home_15": "A vida acontece.",
+          "home_16": "O cinema",
+          "home_17": "permanece.",
+          "home_18": "Histórias reais. Pessoas inteiras.",
+          "home_19": "Um olhar documental sobre o que fica.",
+          "home_20": "Explore os filmes",
+          "home_21": "HISTÓRIAS REAIS, CONTADAS DE DENTRO",
+          "home_22": "CINEMA DOCUMENTAL DE CASAMENTO",
+          "home_23": "AFETO",
+          "home_24": "/",
+          "home_25": "MEMÓRIA",
+          "home_26": "PRESENÇA",
+          "home_27": "UM FILME. A SUA HISTÓRIA.",
+          "home_28": "O acervo",
+          "home_29": "Cada história, um universo.",
+          "home_30": "Todos os filmes",
+          "home_31": "Filmes",
+          "home_32": "Séries",
+          "home_33": "16 histórias · 21 filmes e capítulos · Nicolas Paschoal",
+          "home_34": "O extraordinário está",
+          "home_35": "no que é",
+          "home_36": "verdadeiro.",
+          "home_37": "A voz que falha. O abraço que demora. Uma conversa que ninguém planejou. É nesses encontros que buscamos a história de um casamento: nas pessoas e no que acontece entre elas.",
+          "home_38": "Sou Nicolas Paschoal. Nasci em Ubatuba e cresci com os registros que meus pais e avós faziam da nossa família. Foi dessa relação com a memória que nasceu meu desejo de contar histórias através da imagem.",
+          "home_39": "Hoje, busco preservar os olhares, os gestos, as vozes e os abraços que fazem cada história ser única.",
+          "home_40": "O próximo filme",
+          "home_41": "Começa com",
+          "home_42": "a sua história.",
+          "home_43": "Fale com Nicolas",
+          "home_44": "©",
+          "home_45": "Nicolas Paschoal",
+          "home_46": "Cinema documental de casamento",
+          "home_47": "Voltar ao início ↑",
+          "home_48": "×",
+          "investment_49": "Investimento — Nicolas Paschoal",
+          "investment_50": "/",
+          "investment_51": "nicolas paschoal",
+          "investment_52": "Cinema documental",
+          "investment_53": "/#filmes",
+          "investment_54": "Os filmes",
+          "investment_55": "/#olhar",
+          "investment_56": "Nosso olhar",
+          "investment_57": "/investimento/",
+          "investment_58": "Investimento",
+          "investment_59": "#proposta",
+          "investment_60": "Vamos conversar",
+          "investment_61": "↗",
+          "investment_62": "Investimento · Filmes de casamento",
+          "investment_63": "Uma história sua.",
+          "investment_64": "Um filme para",
+          "investment_65": "a vida inteira.",
+          "investment_66": "Cada casamento tem seu próprio ritmo, suas pessoas e suas memórias. Escolham a experiência que faz sentido para vocês — ou construam comigo uma proposta personalizada.",
+          "investment_67": "#experiencias",
+          "investment_68": "Conheça as experiências",
+          "investment_69": "↓",
+          "investment_70": "https://i.ytimg.com/vi/6M464Hbf95U/maxresdefault.jpg",
+          "investment_71": "TRÊS FORMAS DE PRESERVAR A SUA HISTÓRIA",
+          "investment_72": "ESSENCIAL",
+          "investment_73": "/",
+          "investment_74": "AUTORAL",
+          "investment_75": "ÍNTEGRA",
+          "investment_76": "UM OLHAR. DIFERENTES POSSIBILIDADES.",
+          "investment_77": "As experiências",
+          "investment_78": "O que vocês querem guardar?",
+          "investment_79": "Dos momentos essenciais à construção de uma narrativa documental sobre vocês.",
+          "investment_80": "01 / ESSENCIAL",
+          "investment_81": "Essencial",
+          "investment_82": "Os momentos do casamento reunidos em um filme para voltar a sentir aquele dia.",
+          "investment_83": "Investimento a partir de",
+          "investment_84": "R$ 6.200",
+          "investment_85": "à vista",
+          "investment_86": "ou R$ 7.000 em até 8x",
+          "investment_87": "A cobertura",
+          "investment_88": "8 horas de cobertura",
+          "investment_89": "Making of dos noivos, cerimônia, recepção e festa",
+          "investment_90": "2 filmmakers + drone",
+          "investment_91": "Highlights de até 2 minutos",
+          "investment_92": "Teaser com média de 7 minutos, com melhores momentos e votos dos noivos",
+          "investment_93": "Entrega em até 45 dias úteis após o casamento.",
+          "investment_94": "Conversar sobre o Essencial",
+          "investment_95": "02 / AUTORAL",
+          "investment_96": "O OLHAR DOCUMENTAL",
+          "investment_97": "Autoral",
+          "investment_98": "O casamento contado através da história de vocês. Um filme que começa antes do grande dia.",
+          "investment_99": "R$ 15.000",
+          "investment_100": "ou R$ 16.900 em até 8x",
+          "investment_101": "A construção da história",
+          "investment_102": "Entrevistas com o casal e familiares",
+          "investment_103": "Fotos, vídeos caseiros e memórias da infância",
+          "investment_104": "Ensaio de pré-wedding",
+          "investment_105": "Making of, cerimônia, recepção e festa",
+          "investment_106": "3 filmmakers + drone",
+          "investment_107": "Teaser com média de 20 minutos, com melhores momentos e votos dos noivos",
+          "investment_108": "Entrega em até 60 dias úteis após o casamento.",
+          "investment_109": "Construir nosso filme",
+          "investment_110": "03 / ÍNTEGRA",
+          "investment_111": "Íntegra",
+          "investment_112": "Do making of à celebração da festa, com a cerimônia preservada na íntegra.",
+          "investment_113": "R$ 14.000",
+          "investment_114": "ou R$ 15.000 em até 12x",
+          "investment_115": "Making of dos noivos",
+          "investment_116": "Cerimônia na íntegra: entradas, votos e discursos",
+          "investment_117": "Recepção e melhores momentos da festa",
+          "investment_118": "4 filmmakers + drone",
+          "investment_119": "Vídeo na íntegra, com duração de acordo com o evento",
+          "investment_120": "Highlights de até 1 minuto",
+          "investment_121": "Conversar sobre o Íntegra",
+          "investment_122": "Os valores são iniciais. Para uma cobertura personalizada, conversamos sobre equipe, duração, narrativa e entregas.",
+          "investment_123": "Dentro da experiência Autoral",
+          "investment_124": "A história começa",
+          "investment_125": "antes do",
+          "investment_126": "sim.",
+          "investment_127": "O dia do casamento é parte de uma história maior. No Autoral, abrimos espaço para as vozes e as memórias que trouxeram vocês até aqui.",
+          "investment_128": "01",
+          "investment_129": "Escutar quem vocês são",
+          "investment_130": "Entrevistas com o casal e familiares para conhecer a história e as pessoas que fazem parte dela.",
+          "investment_131": "02",
+          "investment_132": "Revisitar as memórias",
+          "investment_133": "Fotos da infância, vídeos caseiros e registros pessoais ajudam a compor a narrativa, junto ao ensaio de pré-wedding.",
+          "investment_134": "03",
+          "investment_135": "Documentar o encontro",
+          "investment_136": "Do making of à festa, o casamento ganha seu lugar dentro dessa história, com os melhores momentos e os votos de vocês.",
+          "investment_137": "Lado a lado",
+          "investment_138": "Encontrem a sua experiência.",
+          "investment_139": "O que está incluído",
+          "investment_140": "Equipe",
+          "investment_141": "Construção antes do casamento",
+          "investment_142": "—",
+          "investment_143": "Entrevistas, memórias e pré-wedding",
+          "investment_144": "Vídeo principal",
+          "investment_145": "Teaser · média de 7 min",
+          "investment_146": "Teaser · média de 20 min",
+          "investment_147": "Íntegra · duração conforme o evento",
+          "investment_148": "Highlights",
+          "investment_149": "Até 2 min",
+          "investment_150": "Até 1 min",
+          "investment_151": "Prazo após o casamento",
+          "investment_152": "Até 45 dias úteis",
+          "investment_153": "Até 60 dias úteis",
+          "investment_154": "A partir de, à vista",
+          "investment_155": "A partir de, parcelado",
+          "investment_156": "R$ 7.000 em até 8x",
+          "investment_157": "R$ 16.900 em até 8x",
+          "investment_158": "R$ 15.000 em até 12x",
+          "investment_159": "Antes de conversar",
+          "investment_160": "Algumas respostas",
+          "investment_161": "para começar.",
+          "investment_162": "Posso personalizar a cobertura?",
+          "investment_163": "Sim. Podemos adaptar equipe, duração, quantidade de câmeras, cobertura, narrativa e entregas ao que faz sentido para o casamento de vocês.",
+          "investment_164": "Qual experiência inclui pré-wedding e entrevistas?",
+          "investment_165": "A experiência Autoral inclui ensaio de pré-wedding, entrevistas com o casal e familiares e a busca por fotos e vídeos pessoais para construir a narrativa.",
+          "investment_166": "Em quanto tempo recebemos os filmes?",
+          "investment_167": "Essencial e Íntegra têm prazo de até 45 dias úteis após o casamento. No Autoral, o prazo é de até 60 dias úteis.",
+          "investment_168": "Onde podemos conhecer os filmes?",
+          "investment_169": "Explore",
+          "investment_170": "o acervo de casamentos",
+          "investment_171": ". Cada história tem sua própria página, com os filmes e capítulos disponíveis para assistir.",
+          "investment_172": "Uma proposta para vocês",
+          "investment_173": "E se a sua história",
+          "investment_174": "pedir",
+          "investment_175": "outro caminho?",
+          "investment_176": "Contem a data, o lugar e o que vocês imaginam para o casamento. Vamos conversar sobre a melhor forma de documentar tudo isso.",
+          "investment_177": "Por onde vocês gostariam de começar?",
+          "investment_178": "Uma proposta personalizada",
+          "investment_179": "Experiência Essencial",
+          "investment_180": "Experiência Autoral",
+          "investment_181": "Experiência Íntegra",
+          "investment_182": "Conversar com Nicolas",
+          "investment_183": "Vamos continuar a conversa pelo WhatsApp.",
+          "investment_184": "© Nicolas Paschoal · Cinema documental",
+          "investment_185": "Conheça os filmes ↗",
+          "investment_186": "#",
+          "investment_187": "Voltar ao início ↑"
+        },
+        "films": [
+          {
+            "id": "jamili-cristian",
+            "couple": "Jamili & Cristian",
+            "title": "Jamili & Cristian",
+            "type": "series",
+            "label": "UMA HISTÓRIA EM CAPÍTULOS",
+            "meta": "2 capítulos",
+            "location": "Itamambuca, Ubatuba — SP",
+            "img": "6M464Hbf95U",
+            "desc": "A história de Jamili & Cristian, em Itamambuca, Ubatuba — SP. O filme e os outros capítulos deste casamento, reunidos em um só lugar.",
+            "eps": [
+              {
+                "video": "6M464Hbf95U",
+                "title": "Filme de casamento",
+                "duration": "19 min"
+              },
+              {
+                "video": "uNtFCJna2h4",
+                "title": "Highlights",
+                "duration": "1:22"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/6M464Hbf95U/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "gabi-jeremy",
+            "couple": "Gabi & Jeremy",
+            "title": "Gabi & Jeremy",
+            "type": "series",
+            "label": "UMA HISTÓRIA EM CAPÍTULOS",
+            "meta": "2 capítulos",
+            "location": "Paraty — RJ",
+            "img": "UxSlGfBtUzs",
+            "desc": "A história de Gabi & Jeremy, em Paraty — RJ. O filme e os outros capítulos deste casamento, reunidos em um só lugar.",
+            "eps": [
+              {
+                "video": "UxSlGfBtUzs",
+                "title": "Filme de casamento",
+                "duration": "31 min"
+              },
+              {
+                "video": "xNsodEBZgs8",
+                "title": "Highlights",
+                "duration": "2:23"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/UxSlGfBtUzs/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "helena-lucas",
+            "couple": "Helena & Lucas",
+            "title": "Helena & Lucas",
+            "type": "series",
+            "label": "UMA HISTÓRIA EM CAPÍTULOS",
+            "meta": "2 capítulos",
+            "location": "",
+            "img": "gqn8v9spSck",
+            "desc": "A história de Helena & Lucas. O filme e os outros capítulos deste casamento, reunidos em um só lugar.",
+            "eps": [
+              {
+                "video": "gqn8v9spSck",
+                "title": "A Wedding Film",
+                "duration": "12:39"
+              },
+              {
+                "video": "BetO1PCe5SE",
+                "title": "Highlights",
+                "duration": "2:01"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/gqn8v9spSck/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "mari-caique",
+            "couple": "Mari & Caique",
+            "title": "Mari & Caique",
+            "type": "series",
+            "label": "UMA HISTÓRIA EM CAPÍTULOS",
+            "meta": "2 capítulos",
+            "location": "",
+            "img": "Q9uvhQamTLQ",
+            "desc": "A história de Mari & Caique. O filme e os outros capítulos deste casamento, reunidos em um só lugar.",
+            "eps": [
+              {
+                "video": "Q9uvhQamTLQ",
+                "title": "Mari e Caique",
+                "duration": "2:10"
+              },
+              {
+                "video": "7Rdvm0Hix-0",
+                "title": "Wedding Highlights",
+                "duration": "1:34"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/Q9uvhQamTLQ/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "isabela-luiz",
+            "couple": "Isabela & Luiz",
+            "title": "Isabela & Luiz",
+            "type": "series",
+            "label": "UMA HISTÓRIA EM CAPÍTULOS",
+            "meta": "2 capítulos",
+            "location": "",
+            "img": "0aUHgUxuMhI",
+            "desc": "A história de Isabela & Luiz. O filme e os outros capítulos deste casamento, reunidos em um só lugar.",
+            "eps": [
+              {
+                "video": "0aUHgUxuMhI",
+                "title": "Pré-wedding · Vila Bosque Bambu, Jarinu",
+                "duration": "2:09"
+              },
+              {
+                "video": "mwoEW9bFv7k",
+                "title": "Highlights",
+                "duration": "1:42"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/0aUHgUxuMhI/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "fernando-isabelle",
+            "couple": "Fernando & Isabelle",
+            "title": "Fernando & Isabelle",
+            "type": "film",
+            "label": "FILME DE CASAMENTO",
+            "meta": "2:25",
+            "location": "Praia do Félix, Ubatuba — SP",
+            "img": "jiIHNkxZEgQ",
+            "desc": "A história de Fernando & Isabelle, em Praia do Félix, Ubatuba — SP. Um filme de Nicolas Paschoal.",
+            "eps": [
+              {
+                "video": "jiIHNkxZEgQ",
+                "title": "Highlights",
+                "duration": "2:25"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/jiIHNkxZEgQ/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "tati-max",
+            "couple": "Tati & Max",
+            "title": "Tati & Max",
+            "type": "film",
+            "label": "FILME DE CASAMENTO",
+            "meta": "24 min",
+            "location": "Brasil e Alemanha",
+            "img": "1iuiEvEjMEc",
+            "desc": "A história de Tati & Max. Um filme de Nicolas Paschoal.",
+            "eps": [
+              {
+                "video": "1iuiEvEjMEc",
+                "title": "Amor sem fronteiras",
+                "duration": "24 min"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/1iuiEvEjMEc/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "amanda-claick",
+            "couple": "Amanda & Claick",
+            "title": "Amanda & Claick",
+            "type": "film",
+            "label": "FILME DE CASAMENTO",
+            "meta": "27 min",
+            "location": "",
+            "img": "hBs-qsXK1D0",
+            "desc": "A história de Amanda & Claick. Um filme de Nicolas Paschoal.",
+            "eps": [
+              {
+                "video": "hBs-qsXK1D0",
+                "title": "Amor com nariz vermelho",
+                "duration": "27 min"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/hBs-qsXK1D0/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "andressa-edwin",
+            "couple": "Andressa & Edwin",
+            "title": "Andressa & Edwin",
+            "type": "film",
+            "label": "FILME DE CASAMENTO",
+            "meta": "1:40",
+            "location": "",
+            "img": "xMxtnLPh6LA",
+            "desc": "A história de Andressa & Edwin. Um filme de Nicolas Paschoal.",
+            "eps": [
+              {
+                "video": "xMxtnLPh6LA",
+                "title": "Highlights · 12 de abril de 2026",
+                "duration": "1:40"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/xMxtnLPh6LA/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "bea-renan",
+            "couple": "Bea & Renan",
+            "title": "Bea & Renan",
+            "type": "film",
+            "label": "FILME DE CASAMENTO",
+            "meta": "2:41",
+            "location": "",
+            "img": "g3vMBGJRgnc",
+            "desc": "A história de Bea & Renan. Um filme de Nicolas Paschoal.",
+            "eps": [
+              {
+                "video": "g3vMBGJRgnc",
+                "title": "Bea e Renan",
+                "duration": "2:41"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/g3vMBGJRgnc/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "camila-gabriel",
+            "couple": "Camila & Gabriel",
+            "title": "Camila & Gabriel",
+            "type": "film",
+            "label": "FILME DE CASAMENTO",
+            "meta": "2:39",
+            "location": "",
+            "img": "gk5ujv_AWZ8",
+            "desc": "A história de Camila & Gabriel. Um filme de Nicolas Paschoal.",
+            "eps": [
+              {
+                "video": "gk5ujv_AWZ8",
+                "title": "Highlights",
+                "duration": "2:39"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/gk5ujv_AWZ8/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "allendri-macos-vinicius",
+            "couple": "Allendri & Macos Vinicius",
+            "title": "Allendri & Macos Vinicius",
+            "type": "film",
+            "label": "FILME DE CASAMENTO",
+            "meta": "10:25",
+            "location": "",
+            "img": "Ztdi6AhgC78",
+            "desc": "A história de Allendri & Macos Vinicius. Um filme de Nicolas Paschoal.",
+            "eps": [
+              {
+                "video": "Ztdi6AhgC78",
+                "title": "A história de Allendri e Macos Vinicius",
+                "duration": "10:25"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/Ztdi6AhgC78/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "danilo-michele",
+            "couple": "Danilo & Michele",
+            "title": "Danilo & Michele",
+            "type": "film",
+            "label": "FILME DE CASAMENTO",
+            "meta": "17 min",
+            "location": "",
+            "img": "doe6Nbp8-jQ",
+            "desc": "A história de Danilo & Michele. Um filme de Nicolas Paschoal.",
+            "eps": [
+              {
+                "video": "doe6Nbp8-jQ",
+                "title": "O casamento de Danilo e Michele",
+                "duration": "17 min"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/doe6Nbp8-jQ/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "natalia-lucas",
+            "couple": "Natalia & Lucas",
+            "title": "Natalia & Lucas",
+            "type": "film",
+            "label": "FILME DE CASAMENTO",
+            "meta": "11:29",
+            "location": "",
+            "img": "WqvjVOenxAQ",
+            "desc": "A história de Natalia & Lucas. Um filme de Nicolas Paschoal.",
+            "eps": [
+              {
+                "video": "WqvjVOenxAQ",
+                "title": "O casamento de Natalia e Lucas",
+                "duration": "11:29"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/WqvjVOenxAQ/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "clara-caique",
+            "couple": "Clara & Caique",
+            "title": "Clara & Caique",
+            "type": "film",
+            "label": "FILME DE CASAMENTO",
+            "meta": "18 min",
+            "location": "",
+            "img": "X9wR_HxZkNI",
+            "desc": "A história de Clara & Caique. Um filme de Nicolas Paschoal.",
+            "eps": [
+              {
+                "video": "X9wR_HxZkNI",
+                "title": "Celebrando o amor",
+                "duration": "18 min"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/X9wR_HxZkNI/hqdefault.jpg",
+            "visible": true
+          },
+          {
+            "id": "jack-lucas",
+            "couple": "Jack & Lucas",
+            "title": "Jack & Lucas",
+            "type": "film",
+            "label": "FILME DE CASAMENTO",
+            "meta": "7:44",
+            "location": "",
+            "img": "Q9FtAyT9s8I",
+            "desc": "A história de Jack & Lucas. Um filme de Nicolas Paschoal.",
+            "eps": [
+              {
+                "video": "Q9FtAyT9s8I",
+                "title": "O casamento de Jack e Lucas",
+                "duration": "7:44"
+              }
+            ],
+            "cover": "https://i.ytimg.com/vi/Q9FtAyT9s8I/hqdefault.jpg",
+            "visible": true
+          }
+        ],
+        "settings": {
+          "whatsapp": "5512988274244",
+          "background": "#101110",
+          "text": "#eae7df",
+          "accent": "#d3ff7a"
+        }
+      }
+    }
+  ],
+  "updatedAt": "2026-10-22T18:04:40.886Z",
+  "publishedAt": "2026-10-22T18:04:40.886Z"
+}
